@@ -11,6 +11,9 @@
  *
  * @author Jorge Alejandro
  */
+
+include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
+
 class ProgramaCRUD {
 
     //put your code here

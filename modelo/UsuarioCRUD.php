@@ -59,14 +59,8 @@ class UsuarioCRUD implements Persistible {
      * Ciudad.js.crearTablaCiudades()
      */
     function select($argumentos) {
-        $where = UtilConexion::getWhere($argumentos); // Se construye la clausula WHERE
         extract($argumentos);
-//        if (isset($id)) {
-//            $where = "WHERE tipo_dependencia_id = '$id'";
-//        } else {
-//            $where = "WHERE tipo_dependencia_id = 'ninguno'";
-//        }
-        $count = UtilConexion::$pdo->query("SELECT id FROM tipo_dependencia $where")->rowCount();
+        $count = UtilConexion::$pdo->query("SELECT codigo FROM usuario")->rowCount();
         // Calcula el total de páginas por consulta
         if ($count > 0) {
             $total_pages = ceil($count / $rows);
@@ -92,11 +86,11 @@ class UsuarioCRUD implements Persistible {
             'records' => $count
         ];
 
-        $sql = "SELECT * FROM tipo_dependencia $where ORDER BY $sidx $sord LIMIT $rows OFFSET $start";
+        $sql = "SELECT * FROM usuario ORDER BY $sidx $sord LIMIT $rows OFFSET $start";
         foreach (UtilConexion::$pdo->query($sql) as $fila) {
             $respuesta['rows'][] = [
-                'id' => $fila['id'],
-                'cell' => [$fila['id'], $fila['nombre']]
+                'codigo' => $fila['codigo'],
+                'cell' => [$fila['codigo'], $fila['nombre'],$fila['nombreusuario'],$fila['contrasena'],$fila['nombre'],$fila['apellido'],$fila['cedula'],$fila['direccion'],$fila['telefono'],$fila['correo'],$fila['codigo_rol']]
             ];
         }
         echo json_encode($respuesta);

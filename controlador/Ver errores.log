@@ -1,0 +1,92 @@
+[03-Oct-2015 06:00:00 Europe/Berlin] Array
+(
+    [clase] => Usuario
+    [oper] => autenticarUsuario
+    [nombreusuario] => busticos
+    [contrasena] => pro
+)
+
+[03-Oct-2015 06:00:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[03-Oct-2015 06:00:01 Europe/Berlin] Array
+(
+    [clase] => Usuario
+    [oper] => autenticarUsuario
+    [nombreusuario] => busticos
+    [contrasena] => pro
+)
+
+[02-Oct-2015 23:00:01 America/Bogota] ../modelo/Usuario.php
+[03-Oct-2015 06:00:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[02-Oct-2015 23:00:01 America/Bogota] ../modelo/Usuario.php
+[02-Oct-2015 23:00:01 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
+[02-Oct-2015 23:00:01 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
+[02-Oct-2015 23:00:01 America/Bogota] PHP Stack trace:
+[02-Oct-2015 23:00:01 America/Bogota] PHP Stack trace:
+[02-Oct-2015 23:00:01 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[02-Oct-2015 23:00:01 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[02-Oct-2015 23:00:01 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[02-Oct-2015 23:00:01 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[03-Oct-2015 06:00:32 Europe/Berlin] Array
+(
+    [clase] => Usuario
+    [oper] => autenticarUsuario
+    [nombreusuario] => busticos
+    [contrasena] => pro
+)
+
+[03-Oct-2015 06:00:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[02-Oct-2015 23:00:32 America/Bogota] ../modelo/Usuario.php
+[02-Oct-2015 23:00:32 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
+[02-Oct-2015 23:00:32 America/Bogota] PHP Stack trace:
+[02-Oct-2015 23:00:32 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[02-Oct-2015 23:00:32 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[04-Oct-2015 05:49:59 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => MELIN
+    [contrasena] => 123
+)
+
+[04-Oct-2015 05:49:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[03-Oct-2015 22:49:59 America/Bogota] ../modelo/Autenticacion.php
+[04-Oct-2015 05:55:14 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => MELIN
+    [contrasena] => 123
+)
+
+[04-Oct-2015 05:55:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[03-Oct-2015 22:55:14 America/Bogota] ../modelo/Autenticacion.php
+[04-Oct-2015 15:48:19 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => MELIN
+    [contrasena] => 123
+)
+
+[04-Oct-2015 15:48:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 08:48:19 America/Bogota] ../modelo/Autenticacion.php
+[04-Oct-2015 15:48:33 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => MELIN
+    [contrasena] => 123
+)
+
+[04-Oct-2015 15:48:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 08:48:33 America/Bogota] ../modelo/Autenticacion.php
+[04-Oct-2015 15:48:48 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => MELIN
+    [contrasena] => 123
+)
+
+[04-Oct-2015 15:48:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 08:48:48 America/Bogota] ../modelo/Autenticacion.php

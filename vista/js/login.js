@@ -14,18 +14,20 @@ $(function () {
             nombreusuario: nombreusuario,
             contrasena: contrasena
         }, function (data) {
-            console.log(data);
-            
+            //console.log(data);
+            if (data =='Error de usuario o contrasena'){
+                 $("#loginForm").css("background", "#F80505 none repeat scroll 0% 0%");     
+           
+            }else{
             $("#navigation").html('');
-
             $("#navigation").html(data);
             $("#sidr-main").remove();
-
-//            resposive();
+            reponsive();
+            $("#big-text").html('');
+            $("#big-text").html('Bienvenido ' + nombreusuario +' al Sitema de Informacion de practicas de la U de Caldas');
+             $("#Practicas").remove();
+            }
         }, 'json');
-
-
-
 
     }
 

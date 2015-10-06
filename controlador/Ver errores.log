@@ -90,3 +90,153 @@
 
 [04-Oct-2015 15:48:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
 [04-Oct-2015 08:48:48 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 05:42:27 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 05:42:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 22:42:27 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 05:42:59 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 05:42:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 22:42:59 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 05:43:20 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 05:43:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 22:43:20 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 05:43:30 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 05:43:30 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 22:43:30 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 05:43:41 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 05:43:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 22:43:41 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 05:44:14 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 05:44:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 22:44:14 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 05:44:25 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 05:44:25 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 22:44:25 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 06:03:41 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 06:03:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 23:03:41 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 06:12:37 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 06:12:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[04-Oct-2015 23:12:37 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 20:06:49 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 20:06:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[05-Oct-2015 13:06:50 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 20:08:25 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 20:08:25 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[05-Oct-2015 13:08:25 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 20:09:21 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 20:09:21 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[05-Oct-2015 13:09:21 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 20:10:07 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 20:10:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[05-Oct-2015 13:10:07 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 20:11:13 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 20:11:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[05-Oct-2015 13:11:13 America/Bogota] ../modelo/Autenticacion.php
+[05-Oct-2015 20:12:41 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[05-Oct-2015 20:12:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[05-Oct-2015 13:12:41 America/Bogota] ../modelo/Autenticacion.php

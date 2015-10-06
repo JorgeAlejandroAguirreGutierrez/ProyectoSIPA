@@ -3,13 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/DependenciaCRUD.php</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/UsuarioCRUD.php</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/Persistible.php</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/AdmAdministradorSipa.js</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/html/AdmAdminCRUDgConvenios.html</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/login.js</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/ProgramaCRUD.php</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/DepartamentoCRUD.php</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/AdmAdminCRUDgConvenios.js</file>
             <file>file:/C:/xampp/htdocs/ProyectoSIPA/index.html</file>
             <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/Autenticacion.php</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/UsuarioCRUD.php</file>
             <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/html/AdmAdministradorSipa.php</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/Persistible.php</file>
             <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/loginUi.js</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/login.js</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/html/AdmAdministradorSipa.html</file>
+            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/EmpresaExternaCRUD.php</file>
             <file>file:/C:/xampp/htdocs/ProyectoSIPA/serviciosTecnicos/utilidades/UtilConexion.php</file>
         </group>
     </open-files>

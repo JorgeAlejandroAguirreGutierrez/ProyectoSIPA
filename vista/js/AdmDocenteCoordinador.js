@@ -1,30 +1,24 @@
 $(function () {
     $('#gConvenios').on('click', gConvenios);
     $('#aPracticas').on('click', aPracticas);
-    $('#aRoles').on('click', aRoles);
     $('#aRepo').on('click', aRepo); 
  
     function gConvenios(){
         $("#contenido").html('');
-        $("#contenido").load("vista/html/AdmAdminCRUDgConvenios.html");
+        $("#contenido").load("vista/html/AdmDocenteCoordinadorCRUDgConvenios");
         organizarcontenido();
     }
     
     function aPracticas(){
         $("#contenido").html('');
-        $("#contenido").load("vista/html/AdmAdminCRUDpractica.html");
+        $("#contenido").load("vista/html/AdmDocenteCoordinadorCRUDpractica.html");
         organizarcontenido();
     }
     
-    function aRoles(){
-        $("#contenido").html('');
-        $("#contenido").load("vista/html/AdmAdminCRUDroles.html");
-        organizarcontenido();
-    }
     
     function aRepo(){
         $("#contenido").html('');
-        $("#contenido").load("vista/html/AdmAdminCRUDrepo.html");
+        $("#contenido").load("vista/html/AdmDocenteCoordinadorCRUDrepo.html");
         organizarcontenido();
     }
     

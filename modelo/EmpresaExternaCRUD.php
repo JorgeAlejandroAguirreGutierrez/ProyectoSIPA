@@ -11,20 +11,19 @@
  *
  * @author Jorge Alejandro
  */
-
 include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
 
-class EmpresaExternaCRUD implements Persistible{
+class EmpresaExternaCRUD implements Persistible {
 
     public function __construct() {
-        
+        error_log("Entro al constructor");
     }
 
     function add($argumentos) {
         extract($argumentos);
         $sql = "INSERT INTO empresa_externa VALUES($codigo, '$nombre','$nit','$tipo','$direccion',$telefono,$codigo_representante_legal_empresa)";
         $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la ciudad"));
+        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la empresa"));
     }
 
     /**
@@ -61,6 +60,7 @@ class EmpresaExternaCRUD implements Persistible{
      */
     function select($argumentos) {
         extract($argumentos);
+        error_log("LLega hasta el select");
         $count = UtilConexion::$pdo->query("SELECT codigo FROM empresa_externa")->rowCount();
         // Calcula el total de páginas por consulta
         if ($count > 0) {
@@ -86,12 +86,11 @@ class EmpresaExternaCRUD implements Persistible{
             'page' => $page,
             'records' => $count
         ];
-
         $sql = "SELECT * FROM empresa_externa ORDER BY $sidx $sord LIMIT $rows OFFSET $start";
         foreach (UtilConexion::$pdo->query($sql) as $fila) {
             $respuesta['rows'][] = [
                 'codigo' => $fila['codigo'],
-                'cell' => [$fila['codigo'], $fila['nombre'], $fila['nit'], $fila['tipo'], $fila['direccion'], $fila['telefono'],$fila['codigo_representante_legal_empresa']]
+                'cell' => [$fila['codigo'], $fila['nombre'], $fila['nit'], $fila['tipo'], $fila['direccion'], $fila['telefono'], $fila['codigo_representante_legal_empresa']]
             ];
         }
         echo json_encode($respuesta);
@@ -141,5 +140,4 @@ class EmpresaExternaCRUD implements Persistible{
 //            return array('idDependencia' => 0, 'nombreDependencia' => '');
 //        }
 //    }
-
 }

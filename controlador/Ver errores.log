@@ -1,96 +1,4 @@
-[03-Oct-2015 06:00:00 Europe/Berlin] Array
-(
-    [clase] => Usuario
-    [oper] => autenticarUsuario
-    [nombreusuario] => busticos
-    [contrasena] => pro
-)
-
-[03-Oct-2015 06:00:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[03-Oct-2015 06:00:01 Europe/Berlin] Array
-(
-    [clase] => Usuario
-    [oper] => autenticarUsuario
-    [nombreusuario] => busticos
-    [contrasena] => pro
-)
-
-[02-Oct-2015 23:00:01 America/Bogota] ../modelo/Usuario.php
-[03-Oct-2015 06:00:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[02-Oct-2015 23:00:01 America/Bogota] ../modelo/Usuario.php
-[02-Oct-2015 23:00:01 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
-[02-Oct-2015 23:00:01 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
-[02-Oct-2015 23:00:01 America/Bogota] PHP Stack trace:
-[02-Oct-2015 23:00:01 America/Bogota] PHP Stack trace:
-[02-Oct-2015 23:00:01 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
-[02-Oct-2015 23:00:01 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
-[02-Oct-2015 23:00:01 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
-[02-Oct-2015 23:00:01 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
-[03-Oct-2015 06:00:32 Europe/Berlin] Array
-(
-    [clase] => Usuario
-    [oper] => autenticarUsuario
-    [nombreusuario] => busticos
-    [contrasena] => pro
-)
-
-[03-Oct-2015 06:00:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[02-Oct-2015 23:00:32 America/Bogota] ../modelo/Usuario.php
-[02-Oct-2015 23:00:32 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
-[02-Oct-2015 23:00:32 America/Bogota] PHP Stack trace:
-[02-Oct-2015 23:00:32 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
-[02-Oct-2015 23:00:32 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
-[04-Oct-2015 05:49:59 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
-    [contrasena] => 123
-)
-
-[04-Oct-2015 05:49:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[03-Oct-2015 22:49:59 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 05:55:14 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
-    [contrasena] => 123
-)
-
-[04-Oct-2015 05:55:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[03-Oct-2015 22:55:14 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 15:48:19 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
-    [contrasena] => 123
-)
-
-[04-Oct-2015 15:48:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 08:48:19 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 15:48:33 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
-    [contrasena] => 123
-)
-
-[04-Oct-2015 15:48:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 08:48:33 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 15:48:48 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
-    [contrasena] => 123
-)
-
-[04-Oct-2015 15:48:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 08:48:48 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 05:42:27 Europe/Berlin] Array
+[07-Oct-2015 20:53:26 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -98,9 +6,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 05:42:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 22:42:27 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 05:42:59 Europe/Berlin] Array
+[07-Oct-2015 20:53:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 13:53:26 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 20:56:40 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -108,9 +16,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 05:42:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 22:42:59 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 05:43:20 Europe/Berlin] Array
+[07-Oct-2015 20:56:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 13:56:40 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 20:57:20 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -118,9 +26,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 05:43:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 22:43:20 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 05:43:30 Europe/Berlin] Array
+[07-Oct-2015 20:57:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 13:57:20 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:02:04 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -128,9 +36,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 05:43:30 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 22:43:30 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 05:43:41 Europe/Berlin] Array
+[07-Oct-2015 21:02:04 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:02:04 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:03:45 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -138,9 +46,10 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 05:43:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 22:43:41 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 05:44:14 Europe/Berlin] Array
+[07-Oct-2015 21:03:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:03:45 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:04:52 Europe/Berlin] Entra a la fachada
+[07-Oct-2015 21:04:52 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -148,9 +57,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 05:44:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 22:44:14 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 05:44:25 Europe/Berlin] Array
+[07-Oct-2015 21:04:52 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:04:52 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:05:34 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -158,9 +67,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 05:44:25 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 22:44:25 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 06:03:41 Europe/Berlin] Array
+[07-Oct-2015 21:05:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:05:34 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:07:16 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -168,9 +77,10 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 06:03:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 23:03:41 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 06:12:37 Europe/Berlin] Array
+[07-Oct-2015 21:07:16 Europe/Berlin] Entra a la fachada
+[07-Oct-2015 21:07:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:07:16 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:12:15 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -178,9 +88,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 06:12:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 23:12:37 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 20:06:49 Europe/Berlin] Array
+[07-Oct-2015 21:12:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:12:15 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:14:03 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -188,9 +98,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 20:06:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[05-Oct-2015 13:06:50 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 20:08:25 Europe/Berlin] Array
+[07-Oct-2015 21:14:03 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:14:03 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:17:47 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -198,9 +108,9 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 20:08:25 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[05-Oct-2015 13:08:25 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 20:09:21 Europe/Berlin] Array
+[07-Oct-2015 21:17:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:17:48 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:25:14 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
@@ -208,35 +118,5 @@
     [contrasena] => 123
 )
 
-[05-Oct-2015 20:09:21 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[05-Oct-2015 13:09:21 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 20:10:07 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => SAMAEL
-    [contrasena] => 123
-)
-
-[05-Oct-2015 20:10:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[05-Oct-2015 13:10:07 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 20:11:13 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => SAMAEL
-    [contrasena] => 123
-)
-
-[05-Oct-2015 20:11:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[05-Oct-2015 13:11:13 America/Bogota] ../modelo/Autenticacion.php
-[05-Oct-2015 20:12:41 Europe/Berlin] Array
-(
-    [clase] => Autenticacion
-    [oper] => autenticarUsuario
-    [nombreusuario] => SAMAEL
-    [contrasena] => 123
-)
-
-[05-Oct-2015 20:12:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[05-Oct-2015 13:12:41 America/Bogota] ../modelo/Autenticacion.php
+[07-Oct-2015 21:25:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 14:25:14 America/Bogota] ../modelo/Autenticacion.php

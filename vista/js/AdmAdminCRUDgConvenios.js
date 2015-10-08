@@ -82,6 +82,7 @@ $(function () {
                     }},
             ],
             width:700,
+            sortname:'codigo',
             pager: "#empresaexterna2",
             viewrecords: true,
             caption: "Empresas Externas",
@@ -105,7 +106,7 @@ $(function () {
         },
         {// Antes de enviar a Departamento->edit(...) se agrega un POST
             modal: true, jqModal: true,
-            width: 500,
+            width: 700,
             beforeSubmit: function (postdata) {
 //              acceder a los datos de la fila seleccionada:
 //              var fila = $(this).getRowData($(this).getGridParam("selrow"));
@@ -121,14 +122,14 @@ $(function () {
         },
         {// Antes de enviar a Departamento->add(...) se agrega un POST
             modal: true, jqModal: true,
-            width: 500,
+            width: 700,
             afterSubmit: function (response, postdata) {
                 var respuesta = jQuery.parseJSON(response.responseText);
                 return [respuesta.ok, respuesta.mensaje, ''];
             }
         },
         {modal: true, jqModal: true,
-            width: 300,
+            width: 700,
             afterSubmit: function (response, postdata) {
                 var respuesta = jQuery.parseJSON(response.responseText);
                 return [respuesta.ok, respuesta.mensaje, ''];

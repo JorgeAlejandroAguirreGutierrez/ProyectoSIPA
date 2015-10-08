@@ -1,53 +1,127 @@
-$( function () {
-    
-    var mydata = [
-		{id:"1",invdate:"2010-05-24",name:"test",note:"note",tax:"10.00",total:"2111.00"} ,
-		{id:"2",invdate:"2010-05-25",name:"test2",note:"note2",tax:"20.00",total:"320.00"},
-		{id:"3",invdate:"2007-09-01",name:"test3",note:"note3",tax:"30.00",total:"430.00"},
-		{id:"4",invdate:"2007-10-04",name:"test",note:"note",tax:"10.00",total:"210.00"},
-		{id:"5",invdate:"2007-10-05",name:"test2",note:"note2",tax:"20.00",total:"320.00"},
-		{id:"6",invdate:"2007-09-06",name:"test3",note:"note3",tax:"30.00",total:"430.00"},
-		{id:"7",invdate:"2007-10-04",name:"test",note:"note",tax:"10.00",total:"210.00"},
-		{id:"8",invdate:"2007-10-03",name:"test2",note:"note2",amount:"300.00",tax:"21.00",total:"320.00"},
-		{id:"9",invdate:"2007-09-01",name:"test3",note:"note3",amount:"400.00",tax:"30.00",total:"430.00"},
-		{id:"11",invdate:"2007-10-01",name:"test",note:"note",amount:"200.00",tax:"10.00",total:"210.00"},
-		{id:"12",invdate:"2007-10-02",name:"test2",note:"note2",amount:"300.00",tax:"20.00",total:"320.00"},
-		{id:"13",invdate:"2007-09-01",name:"test3",note:"note3",amount:"400.00",tax:"30.00",total:"430.00"},
-		{id:"14",invdate:"2007-10-04",name:"test",note:"note",amount:"200.00",tax:"10.00",total:"210.00"},
-		{id:"15",invdate:"2007-10-05",name:"test2",note:"note2",amount:"300.00",tax:"20.00",total:"320.00"},
-		{id:"16",invdate:"2007-09-06",name:"test3",note:"note3",amount:"400.00",tax:"30.00",total:"430.00"},
-		{id:"17",invdate:"2007-10-04",name:"test",note:"note",amount:"200.00",tax:"10.00",total:"210.00"},
-		{id:"18",invdate:"2007-10-03",name:"test2",note:"note2",amount:"300.00",tax:"20.00",total:"320.00"},
-		{id:"19",invdate:"2007-09-01",name:"test3",note:"note3",amount:"400.00",tax:"30.00",total:"430.00"},
-		{id:"21",invdate:"2007-10-01",name:"test",note:"note",amount:"200.00",tax:"10.00",total:"210.00"},
-		{id:"22",invdate:"2007-10-02",name:"test2",note:"note2",amount:"300.00",tax:"20.00",total:"320.00"},
-		{id:"23",invdate:"2007-09-01",name:"test3",note:"note3",amount:"400.00",tax:"30.00",total:"430.00"},
-		{id:"24",invdate:"2007-10-04",name:"test",note:"note",amount:"200.00",tax:"10.00",total:"210.00"},
-		{id:"25",invdate:"2007-10-05",name:"test2",note:"note2",amount:"300.00",tax:"20.00",total:"320.00"},
-		{id:"26",invdate:"2007-09-06",name:"test3",note:"note3",amount:"400.00",tax:"30.00",total:"430.00"},
-		{id:"27",invdate:"2007-10-04",name:"test",note:"note",amount:"200.00",tax:"10.00",total:"210.00"},
-		{id:"28",invdate:"2007-10-03",name:"test2",note:"note2",amount:"300.00",tax:"20.00",total:"320.00"},
-		{id:"29",invdate:"2007-09-01",name:"test3",note:"note3",amount:"400.00",tax:"30.00",total:"430.00"}
-	];
-        
-    jQuery("#list47").jqGrid({
-            data: mydata,
-            datatype: "local",
-            height: 350,
-            rowNum: 25,
-            rowList: [10,20,30],
-            colNames:['Inv No','Date', 'Client', 'Amount','Tax','Total','Notes'],
-            colModel:[
-                    {name:'id',index:'id', width:60, sorttype:"int"},
-                    {name:'invdate',index:'invdate', width:90, sorttype:"date", formatter:"date"},
-                    {name:'name',index:'name', width:100},
-                    {name:'amount',index:'amount', width:80, align:"right",sorttype:"float", formatter:"number"},
-                    {name:'tax',index:'tax', width:80, align:"right",sorttype:"float"},		
-                    {name:'total',index:'total', width:80,align:"right",sorttype:"float"},		
-                    {name:'note',index:'note', width:150, sortable:false}		
+$(function () {
+
+    var idusuario, datosusuario, jqGridUsuario;
+
+    tablaUsuario();
+
+    function tablaUsuario()
+    {
+        jqGridUsuario = jQuery("#usuario1").jqGrid({
+            url: 'controlador/fachada.php',
+            datatype: "json",
+            mtype: 'POST',
+            postData: {
+                clase: 'UsuarioCRUD',
+                oper: 'select'
+            },
+            colNames: ['CODIGO', 'NOMBREUSUARIO','CONTRASENA','NOMBRE','APELLIDO','CEDULA','DIRECCION','TELEFONO','CORREO','CODIGO_ROL'],
+            colModel: [
+                {name: 'codigo', index: 'codigo', width: 55, align: 'center', editable: true, editrules: {required: true, number: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'nombreusuario', index: 'nombreusuario', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'contrasena', index: 'contrasena', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'nombre', index: 'nombre', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'apellido', index: 'apellido', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'cedula', index: 'cedula', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'direccion', index: 'direccion', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'telefono', index: 'telefono', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'correo', index: 'correo', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
+                {name: 'codigo_rol', index: 'codigo_rol', width: 100, editable: true, editrules: {required: true}, editoptions: {size: 37,
+                        dataInit: function (elemento) {
+                            $(elemento).width(282);
+                        }
+                    }},
             ],
-            pager: "#plist47",
+            width:1000,
+            sortname:'codigo',
+            pager: "#usuario2",
             viewrecords: true,
-            caption: "Manipulación de un array de datos"
-    });
+            caption: "Usuarios",
+            editurl: "controlador/fachada.php?clase=UsuarioCRUD",
+            loadError: function (jqXHR, textStatus, errorThrown) {
+                alert(jqXHR.responseText);
+            },
+            onSelectRow: function (id) {
+                idusuario = id;
+                datosusuario = $(this).getRowData(idusuario);   // Recuperar los datos de la fila seleccionada
+                idusuario = '';
+//                crearTablaCiudades()
+//                crearTablaZonas()
+            }
+        }).jqGrid('navGrid', '#usuario2', {
+            refresh: true,
+            edit: true,
+            add: true,
+            del: true,
+            search: true
+        },
+        {// Antes de enviar a Departamento->edit(...) se agrega un POST
+            modal: true, jqModal: true,
+            width: 700,
+            beforeSubmit: function (postdata) {
+//              acceder a los datos de la fila seleccionada:
+//              var fila = $(this).getRowData($(this).getGridParam("selrow"));
+
+//              agregar un parámetro a los datos enviados (ej. el ID introducido en el formulario de edición)
+//                postdata.idNuevo = $('#id').val();
+                return[true, ''];
+            },
+            afterSubmit: function (response, postdata) {
+                var respuesta = jQuery.parseJSON(response.responseText);
+                return [respuesta.ok, respuesta.mensaje, ''];
+            }
+        },
+        {// Antes de enviar a Departamento->add(...) se agrega un POST
+            modal: true, jqModal: true,
+            width: 700,
+            afterSubmit: function (response, postdata) {
+                var respuesta = jQuery.parseJSON(response.responseText);
+                return [respuesta.ok, respuesta.mensaje, ''];
+            }
+        },
+        {modal: true, jqModal: true,
+            width: 700,
+            afterSubmit: function (response, postdata) {
+                var respuesta = jQuery.parseJSON(response.responseText);
+                return [respuesta.ok, respuesta.mensaje, ''];
+            }
+        },
+        {multipleSearch: true, multipleGroup: true}
+        );
+    }
 });

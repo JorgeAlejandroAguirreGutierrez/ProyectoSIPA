@@ -1,92 +1,1212 @@
-[03-Oct-2015 06:00:00 Europe/Berlin] Array
-(
-    [clase] => Usuario
-    [oper] => autenticarUsuario
-    [nombreusuario] => busticos
-    [contrasena] => pro
-)
-
-[03-Oct-2015 06:00:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[03-Oct-2015 06:00:01 Europe/Berlin] Array
-(
-    [clase] => Usuario
-    [oper] => autenticarUsuario
-    [nombreusuario] => busticos
-    [contrasena] => pro
-)
-
-[02-Oct-2015 23:00:01 America/Bogota] ../modelo/Usuario.php
-[03-Oct-2015 06:00:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[02-Oct-2015 23:00:01 America/Bogota] ../modelo/Usuario.php
-[02-Oct-2015 23:00:01 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
-[02-Oct-2015 23:00:01 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
-[02-Oct-2015 23:00:01 America/Bogota] PHP Stack trace:
-[02-Oct-2015 23:00:01 America/Bogota] PHP Stack trace:
-[02-Oct-2015 23:00:01 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
-[02-Oct-2015 23:00:01 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
-[02-Oct-2015 23:00:01 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
-[02-Oct-2015 23:00:01 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
-[03-Oct-2015 06:00:32 Europe/Berlin] Array
-(
-    [clase] => Usuario
-    [oper] => autenticarUsuario
-    [nombreusuario] => busticos
-    [contrasena] => pro
-)
-
-[03-Oct-2015 06:00:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[02-Oct-2015 23:00:32 America/Bogota] ../modelo/Usuario.php
-[02-Oct-2015 23:00:32 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Usuario.php on line 25
-[02-Oct-2015 23:00:32 America/Bogota] PHP Stack trace:
-[02-Oct-2015 23:00:32 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
-[02-Oct-2015 23:00:32 America/Bogota] PHP   2. Usuario->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
-[04-Oct-2015 05:49:59 Europe/Berlin] Array
+[08-Oct-2015 06:29:22 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
+    [nombreusuario] => SAMAEL
     [contrasena] => 123
 )
 
-[04-Oct-2015 05:49:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[03-Oct-2015 22:49:59 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 05:55:14 Europe/Berlin] Array
+[08-Oct-2015 06:29:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:29:22 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:29:23 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444278563039
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:29:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:29:23 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:29:23 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 06:29:23 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444278563079
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[07-Oct-2015 23:29:23 America/Bogota] Entro al constructor
+[08-Oct-2015 06:29:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:29:23 America/Bogota] LLega hasta el select
+[07-Oct-2015 23:29:23 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:29:23 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:29:23 America/Bogota] Entro al constructor
+[07-Oct-2015 23:29:23 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:29:33 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [codigo] => 1
+    [nombre] => INSTITUCION EDUCATIVA yoyo
+    [nit] => 1478523690
+    [tipo] => PUBLICA
+    [direccion] => CALLE 10 CARRERA 15
+    [telefono] => 3113856231
+    [codigo_representante_legal_empresa] => 1
+    [oper] => edit
+    [id] => 1
+)
+
+[08-Oct-2015 06:29:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:29:33 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:29:33 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:29:33 America/Bogota] Entro al constructor
+[07-Oct-2015 23:29:33 America/Bogota] Entro al edit
+[08-Oct-2015 06:31:14 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
+    [nombreusuario] => SAMAEL
     [contrasena] => 123
 )
 
-[04-Oct-2015 05:55:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[03-Oct-2015 22:55:14 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 15:48:19 Europe/Berlin] Array
+[08-Oct-2015 06:31:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:31:14 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:31:15 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444278675023
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:31:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:31:15 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:31:15 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:31:15 America/Bogota] Entro al constructor
+[07-Oct-2015 23:31:15 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:31:15 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444278675074
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:31:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:31:15 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:31:15 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:31:15 America/Bogota] Entro al constructor
+[07-Oct-2015 23:31:15 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:31:23 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [codigo] => 1
+    [nombre] => INSTITUCION EDUCATIVA yoyo
+    [nit] => 1478523690
+    [tipo] => PUBLICA
+    [direccion] => CALLE 10 CARRERA 15
+    [telefono] => 3113856231
+    [codigo_representante_legal_empresa] => 1
+    [oper] => edit
+    [id] => 1
+)
+
+[08-Oct-2015 06:31:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:31:23 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:31:23 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:31:23 America/Bogota] Entro al constructor
+[07-Oct-2015 23:31:23 America/Bogota] 1
+[07-Oct-2015 23:31:23 America/Bogota] INSTITUCION EDUCATIVA yoyo
+[07-Oct-2015 23:31:23 America/Bogota] PUBLICA
+[08-Oct-2015 06:38:35 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
+    [nombreusuario] => SAMAEL
     [contrasena] => 123
 )
 
-[04-Oct-2015 15:48:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 08:48:19 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 15:48:33 Europe/Berlin] Array
+[08-Oct-2015 06:38:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:38:35 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:38:37 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279117408
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:38:37 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279117452
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:38:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 06:38:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:38:37 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:38:37 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:38:37 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:38:37 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:38:37 America/Bogota] Entro al constructor
+[07-Oct-2015 23:38:37 America/Bogota] Entro al constructor
+[07-Oct-2015 23:38:37 America/Bogota] LLega hasta el select
+[07-Oct-2015 23:38:37 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:39:09 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [codigo] => 1
+    [nombre] => INSTITUCION EDUCATIVA BUSTICOS
+    [nit] => 1478523690
+    [tipo] => PRIVADA
+    [direccion] => CALLE 10 CARRERA 15
+    [telefono] => 3113856231
+    [codigo_representante_legal_empresa] => 1
+    [oper] => edit
+    [id] => 1
+)
+
+[08-Oct-2015 06:39:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:39:09 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:39:09 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:39:09 America/Bogota] Entro al constructor
+[07-Oct-2015 23:39:09 America/Bogota] 1
+[07-Oct-2015 23:39:09 America/Bogota] INSTITUCION EDUCATIVA BUSTICOS
+[07-Oct-2015 23:39:09 America/Bogota] PRIVADA
+[08-Oct-2015 06:39:09 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279149251
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:39:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:39:09 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:39:09 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:39:09 America/Bogota] Entro al constructor
+[07-Oct-2015 23:39:09 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:43:54 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
+    [nombreusuario] => SAMAEL
     [contrasena] => 123
 )
 
-[04-Oct-2015 15:48:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 08:48:33 America/Bogota] ../modelo/Autenticacion.php
-[04-Oct-2015 15:48:48 Europe/Berlin] Array
+[08-Oct-2015 06:43:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:43:54 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:43:56 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279436127
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:43:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:43:56 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:43:56 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:43:56 America/Bogota] Entro al constructor
+[07-Oct-2015 23:43:56 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:43:56 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279436175
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:43:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:43:56 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:43:56 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:43:56 America/Bogota] Entro al constructor
+[07-Oct-2015 23:43:56 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:44:06 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [codigo] => 1
+    [nombre] => INSTITUCION EDUCATIVA BUSTICOS
+    [nit] => 1478523690
+    [tipo] => PUBLICA
+    [direccion] => CALLE 10 CARRERA 15
+    [telefono] => 3113856231
+    [codigo_representante_legal_empresa] => 1
+    [oper] => edit
+    [id] => 1
+)
+
+[08-Oct-2015 06:44:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:44:06 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:44:06 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:44:06 America/Bogota] Entro al constructor
+[07-Oct-2015 23:44:06 America/Bogota] 1
+[07-Oct-2015 23:44:06 America/Bogota] INSTITUCION EDUCATIVA BUSTICOS
+[07-Oct-2015 23:44:06 America/Bogota] PUBLICA
+[08-Oct-2015 06:44:06 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279446468
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:44:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:44:06 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:44:06 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:44:06 America/Bogota] Entro al constructor
+[07-Oct-2015 23:44:06 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:44:20 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 06:44:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:44:20 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:44:20 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:44:20 America/Bogota] Entro al constructor
+[07-Oct-2015 23:44:20 America/Bogota] Entro al borrar del del
+[08-Oct-2015 06:50:56 Europe/Berlin] Array
 (
     [clase] => Autenticacion
     [oper] => autenticarUsuario
-    [nombreusuario] => MELIN
+    [nombreusuario] => SAMAEL
     [contrasena] => 123
 )
 
-[04-Oct-2015 15:48:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
-[04-Oct-2015 08:48:48 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:50:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:50:56 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:50:58 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279858972
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:50:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:50:59 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:50:59 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:50:59 America/Bogota] Entro al constructor
+[07-Oct-2015 23:50:59 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:50:59 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279859020
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:50:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:50:59 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:50:59 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:50:59 America/Bogota] Entro al constructor
+[07-Oct-2015 23:50:59 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:51:06 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 06:51:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:51:06 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:51:06 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:51:06 America/Bogota] Entro al constructor
+[07-Oct-2015 23:51:06 America/Bogota] Entro al borrar del del
+[08-Oct-2015 06:51:25 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 06:51:25 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:51:25 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:51:27 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279887474
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:51:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:51:27 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:51:27 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 06:51:27 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444279887520
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[07-Oct-2015 23:51:27 America/Bogota] Entro al constructor
+[08-Oct-2015 06:51:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:51:27 America/Bogota] LLega hasta el select
+[07-Oct-2015 23:51:27 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:51:27 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:51:27 America/Bogota] Entro al constructor
+[07-Oct-2015 23:51:27 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:51:31 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 06:51:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:51:31 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:51:31 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:51:31 America/Bogota] Entro al constructor
+[07-Oct-2015 23:51:31 America/Bogota] Entro al borrar del del
+[07-Oct-2015 23:51:31 America/Bogota] 
+[08-Oct-2015 06:53:46 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 06:53:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:53:46 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:53:47 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280027645
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:53:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:53:47 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:53:47 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:53:47 America/Bogota] Entro al constructor
+[07-Oct-2015 23:53:47 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:53:47 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280027705
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:53:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:53:47 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:53:47 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:53:47 America/Bogota] Entro al constructor
+[07-Oct-2015 23:53:47 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:53:54 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 06:53:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:53:54 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:53:54 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:53:54 America/Bogota] Entro al constructor
+[07-Oct-2015 23:53:54 America/Bogota] Entro al borrar del del
+[07-Oct-2015 23:53:54 America/Bogota] 
+[08-Oct-2015 06:55:52 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 06:55:52 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:55:52 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:55:56 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280154121
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:55:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:55:56 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:55:56 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:55:56 America/Bogota] Entro al constructor
+[07-Oct-2015 23:55:56 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:55:56 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280156406
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:55:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:55:56 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:55:56 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:55:56 America/Bogota] Entro al constructor
+[07-Oct-2015 23:55:56 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:56:02 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 06:56:02 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:56:02 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:56:02 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:56:02 America/Bogota] Entro al constructor
+[07-Oct-2015 23:56:02 America/Bogota] Entro al borrar del del
+[08-Oct-2015 06:56:43 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 06:56:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:56:43 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 06:56:45 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280204772
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:56:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:56:45 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:56:45 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:56:45 America/Bogota] Entro al constructor
+[07-Oct-2015 23:56:45 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:56:46 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280205567
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:56:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:56:46 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:56:46 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:56:46 America/Bogota] Entro al constructor
+[07-Oct-2015 23:56:46 America/Bogota] LLega hasta el select
+[08-Oct-2015 06:56:51 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 06:56:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:56:51 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:56:51 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:56:51 America/Bogota] Entro al constructor
+[07-Oct-2015 23:56:51 America/Bogota] Entro al borrar del del
+[07-Oct-2015 23:56:51 America/Bogota] 1
+[08-Oct-2015 06:56:51 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280211765
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 06:56:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Oct-2015 23:56:51 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[07-Oct-2015 23:56:51 America/Bogota] ../modelo/Persistible.php
+[07-Oct-2015 23:56:51 America/Bogota] Entro al constructor
+[07-Oct-2015 23:56:51 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:00:42 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:00:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:00:42 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:00:43 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280443200
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:00:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:00:43 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:00:43 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:00:43 America/Bogota] Entro al constructor
+[08-Oct-2015 00:00:43 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:00:43 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280443247
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:00:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:00:43 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:00:43 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:00:43 America/Bogota] Entro al constructor
+[08-Oct-2015 00:00:43 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:00:48 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 07:00:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:00:48 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:00:48 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:00:48 America/Bogota] Entro al constructor
+[08-Oct-2015 00:00:48 America/Bogota] Entro al borrar del del
+[08-Oct-2015 00:00:48 America/Bogota] 
+[08-Oct-2015 07:01:18 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:01:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:18 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:01:19 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280479544
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:01:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:19 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:19 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:19 America/Bogota] Entro al constructor
+[08-Oct-2015 00:01:19 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:01:19 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280479591
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:01:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:19 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:19 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:19 America/Bogota] Entro al constructor
+[08-Oct-2015 00:01:19 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:01:23 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[08-Oct-2015 07:01:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:23 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:23 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:23 America/Bogota] Entro al constructor
+[08-Oct-2015 00:01:23 America/Bogota] Entro al borrar del del
+[08-Oct-2015 00:01:23 America/Bogota] 1
+[08-Oct-2015 07:01:23 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280483385
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:01:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:23 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:23 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:23 America/Bogota] Entro al constructor
+[08-Oct-2015 00:01:23 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:01:44 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:01:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:45 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:01:46 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280506371
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:01:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:46 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:46 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:46 America/Bogota] Entro al constructor
+[08-Oct-2015 00:01:46 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:01:46 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280506426
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:01:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:46 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:46 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:46 America/Bogota] Entro al constructor
+[08-Oct-2015 00:01:46 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:01:55 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280515153
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:01:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:55 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:55 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:55 America/Bogota] Entro al constructor
+[08-Oct-2015 07:01:55 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280515192
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 00:01:55 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:01:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:01:55 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:01:55 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:01:55 America/Bogota] Entro al constructor
+[08-Oct-2015 00:01:55 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:09:38 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280978430
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:09:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:09:38 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:09:38 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:09:38 America/Bogota] Entro al constructor
+[08-Oct-2015 07:09:38 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444280978466
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 00:09:38 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:09:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:09:38 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:09:38 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:09:38 America/Bogota] Entro al constructor
+[08-Oct-2015 00:09:38 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:32:37 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:32:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:32:37 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:32:39 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282359091
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:32:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:32:39 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:32:39 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:32:39 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:32:39 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282359143
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:32:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:32:39 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:32:39 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:32:39 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:33:43 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:33:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:33:43 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:33:44 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282424791
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:33:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:33:44 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:33:44 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:33:44 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:33:44 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282424836
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:33:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:33:44 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:33:44 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:33:44 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:36:26 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:36:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:36:26 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:36:28 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282588097
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:36:28 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:36:28 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:36:28 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:36:28 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:36:33 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282593432
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:36:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:36:33 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:36:33 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:36:33 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:36:36 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282596947
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:36:36 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:36:37 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:36:37 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:36:42 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282602626
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:36:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:36:42 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:36:42 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:36:59 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:36:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:36:59 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:37:00 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282620449
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:37:00 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:37:00 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:37:00 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:37:00 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:37:00 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282620495
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:37:00 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:37:00 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:37:00 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:37:00 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:37:33 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Oct-2015 07:37:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:37:33 America/Bogota] ../modelo/Autenticacion.php
+[08-Oct-2015 07:37:35 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282655570
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:37:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:37:35 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:37:35 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:37:35 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:37:35 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282655620
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:37:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:37:35 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[08-Oct-2015 00:37:35 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 00:37:35 America/Bogota] LLega hasta el select
+[08-Oct-2015 07:37:38 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282658028
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:37:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:37:38 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:37:38 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:37:38 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282658085
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:37:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:37:38 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:37:38 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:39:22 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [codigo] => 6
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+    [nombre] => VICTOR HUGUIN
+    [apellido] => ESTUPIÑAN DIAZ
+    [cedula] => 74521365478
+    [direccion] => FATIMA
+    [telefono] => 9876543210
+    [correo] => DIOMEDEZINHO@GMAIL.COM
+    [codigo_rol] => 2
+    [oper] => add
+    [id] => _empty
+)
+
+[08-Oct-2015 07:39:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:39:22 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:39:22 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:39:22 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282762309
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:39:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:39:22 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:39:22 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:39:54 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [codigo] => 2
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+    [nombre] => SAMAELIÑHO PRO
+    [apellido] => CARDONA
+    [cedula] => 7894561230
+    [direccion] => CONJUNTO CERRADO
+    [telefono] => 3123384562
+    [correo] => SAMAELPRO@HOTMAIL.COM
+    [codigo_rol] => 5
+    [oper] => edit
+    [id] => 2
+)
+
+[08-Oct-2015 07:39:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:39:54 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:39:54 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:39:54 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282794965
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:39:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:39:54 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:39:55 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:40:22 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => del
+    [id] => 4
+)
+
+[08-Oct-2015 07:40:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:40:22 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:40:22 America/Bogota] ../modelo/Persistible.php
+[08-Oct-2015 07:40:22 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1444282822683
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Oct-2015 07:40:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Oct-2015 00:40:22 America/Bogota] ../modelo/UsuarioCRUD.php
+[08-Oct-2015 00:40:22 America/Bogota] ../modelo/Persistible.php

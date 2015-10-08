@@ -39,7 +39,7 @@ class Autenticacion {
                     $menu = file_get_contents("../vista/html/AdmRepresentanteLegal.php");
                     break;
                 case 5:
-                    $menu = file_get_contents("../vista/html/AdmAdministradorSipa.php");
+                    $menu = file_get_contents("../vista/html/AdmAdministradorSipa.html");
                     break;
             }
         }

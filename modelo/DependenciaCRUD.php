@@ -15,16 +15,15 @@
 include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
 
 class DependenciaCRUD {
-        //put your code here
+    
     public function __construct() {
-        
     }
 
     function add($argumentos) {
         extract($argumentos);
         $sql = "INSERT INTO dependencia VALUES($codigo, '$nombre',$codigo_departamento)";
         $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la ciudad"));
+        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la empresa"));
     }
 
     /**
@@ -48,9 +47,10 @@ class DependenciaCRUD {
      * comas, que corresponden a los IDs de las filas a eliminar.
      */
     function del($argumentos) {
-//        $datos =$argumentos['id'];
-        extract($argumentos);
-        $ok = UtilConexion::$pdo->exec("DELETE FROM dependencia WHERE codigo=$codigo");
+        $datos =$argumentos['id'];
+//        extract($argumentos);
+        error_log($datos);
+        $ok = UtilConexion::$pdo->exec("DELETE FROM dependencia WHERE codigo=$datos");
         echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
     }
 
@@ -86,7 +86,6 @@ class DependenciaCRUD {
             'page' => $page,
             'records' => $count
         ];
-
         $sql = "SELECT * FROM dependencia ORDER BY $sidx $sord LIMIT $rows OFFSET $start";
         foreach (UtilConexion::$pdo->query($sql) as $fila) {
             $respuesta['rows'][] = [
@@ -96,50 +95,5 @@ class DependenciaCRUD {
         }
         echo json_encode($respuesta);
     }
-
-//    function getSelect($argumentos) {
-//        extract($argumentos);
-//        $where = "";
-//        if ($departamento != "") {
-//            $where = "WHERE id = '$departamento'";
-//        }
-//        $rs = UtilConexion::$pdo->exec("SELECT nombre, id FROM tipo_dependencia $where");
-//        $lista = $rs->GetMenu('lstTipoDependencia', "", false, false, 1, 'id="lstTipoDependencia"');
-//        echo $lista;
-//    }
-
-    /**
-     * Devuelve un array asociativo de la forma: {"id1":"Dato1", "id2":"Dato2", ...,"idN":"DatoN"}
-     * Util para crear combos en la capa de presentación
-     * @param <type> $argumentos
-     */
-//    public function getLista($argumentos) {
-//        $where = "";
-//        extract($argumentos);
-//        if (isset($departamento)) {
-//            $where = "WHERE id = '$departamento'";
-//        }
-//        $filas[''] = 'Seleccione una dependencia';
-//        $filas += UtilConexion::$pdo->query("SELECT id, nombre FROM tipo_dependencia $where ORDER BY nombre")->fetchAll(PDO::FETCH_KEY_PAIR);
-//        echo json_encode($filas);
-//    }
-
-    /**
-     * Devuelve el código de una ciudad y un departamento dado el nombre de la ciudad y el departamento
-     * @param string $argumentos un array que tiene el nombre de la ciudad y del departamento separados sólo por espacio
-     */
-//    public function getLocalidad($argumentos) {
-//        extract($argumentos);
-//        $localidad = explode(' ', $localidad);
-//        if (count($localidad) == 2) {
-//            $ciudad = ucfirst($localidad[0]);
-//            $departamento = strtoupper($localidad[1]);
-//            if (($fila = UtilConexion::$pdo->query("SELECT * FROM tipo_dependencia")->fetch(PDO::FETCH_ASSOC))) {
-//                return array('idDependencia' => $fila['id'], 'nombreDependencia' => $fila['nombre']);
-//            }
-//        } else {
-//            return array('idDependencia' => 0, 'nombreDependencia' => '');
-//        }
-//    }
     
 }

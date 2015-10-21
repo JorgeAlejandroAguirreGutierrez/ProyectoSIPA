@@ -27,16 +27,16 @@ class Autenticacion {
             $rol = $fila['codigo_rol'];
             switch ($rol) {
                 case 1:
-                    $menu = file_get_contents("../vista/html/AdmDocenteCoordinador.php");
+                    $menu = file_get_contents("../vista/html/AdmDocenteCoordinador.html");
                     break;
                 case 2:
-                    $menu = file_get_contents("../vista/html/AdmEstudiante.php");
+                    $menu = file_get_contents("../vista/html/AdmEstudiante.html");
                     break;
                 case 3:
-                    $menu = file_get_contents("../vista/html/AdmResponsablePractica.php");
+                    $menu = file_get_contents("../vista/html/AdmResponsablePractica.html");
                     break;
                 case 4:
-                    $menu = file_get_contents("../vista/html/AdmRepresentanteLegal.php");
+                    $menu = file_get_contents("../vista/html/AdmRepresentanteLegal.html");
                     break;
                 case 5:
                     $menu = file_get_contents("../vista/html/AdmAdministradorSipa.html");

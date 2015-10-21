@@ -2,7 +2,8 @@ $(function () {
     $('#gConvenios').on('click', gConvenios);
     $('#aPracticas').on('click', aPracticas);
     $('#aRoles').on('click', aRoles);
-    $('#aRepo').on('click', aRepo); 
+    $('#aRepo').on('click', aRepo);
+    $('#greporte').on('click', reportes);
  
     function gConvenios(){
         $("#contenido").html('');
@@ -28,4 +29,9 @@ $(function () {
         organizarcontenido();
     }
     
+    function reportes(){
+        $("#contenido").html('');
+        $("#contenido").load("vista/html/AdmAdminReportes.html");
+        organizarcontenido();
+    }
 });

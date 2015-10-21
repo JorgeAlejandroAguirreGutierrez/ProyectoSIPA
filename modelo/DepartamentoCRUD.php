@@ -14,7 +14,7 @@
 
 include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
 
-class DepartamentoCRUD IMPLEMENTS Persistible{
+class DepartamentoCRUD implements Persistible{
     //put your code here
     
     public function __construct() {

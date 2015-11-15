@@ -2,16 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/Reporte.js</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/index.html</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/AdmAdministradorSipa.js</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/html/AdmAdminReportes.html</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/serviciosTecnicos/utilidades/UtilReportes.php</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/EmpresaExternaCRUD.php</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/js/login.js</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/vista/html/AdmAdministradorSipa.html</file>
-            <file>file:/C:/xampp/htdocs/ProyectoSIPA/modelo/DepartamentoCRUD.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

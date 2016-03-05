@@ -12,8 +12,8 @@
  * @author Jorge Alejandro
  */
 
-include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
-
+//include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
+session_start();
 class DepartamentoCRUD implements Persistible{
     //put your code here
     
@@ -21,10 +21,16 @@ class DepartamentoCRUD implements Persistible{
     }
 
     function add($argumentos) {
-        extract($argumentos);
-        $sql = "INSERT INTO departamento VALUES($codigo, '$nombre')";
-        $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la empresa"));
+        if ($_SESSION['rol']==5) {
+            extract($argumentos);
+            $sql = "INSERT INTO departamento VALUES($codigo, '$nombre')";
+            $ok = UtilConexion::$pdo->exec($sql);
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la empresa"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
+        
     }
 
     /**
@@ -35,10 +41,15 @@ class DepartamentoCRUD implements Persistible{
      * corresponden a las columnas que se van a actualizar
      */
     function edit($argumentos) {
-        extract($argumentos);
-        $sql = "UPDATE departamento set nombre='$nombre' WHERE codigo=$codigo";
-        $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la actualización de los datos"));
+        if ($_SESSION['rol']==5) {
+            extract($argumentos);
+            $sql = "UPDATE departamento set nombre='$nombre' WHERE codigo=$codigo";
+            $ok = UtilConexion::$pdo->exec($sql);
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la actualización de los datos"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**
@@ -48,11 +59,15 @@ class DepartamentoCRUD implements Persistible{
      * comas, que corresponden a los IDs de las filas a eliminar.
      */
     function del($argumentos) {
-        $datos =$argumentos['id'];
-//        extract($argumentos);
-        error_log($datos);
-        $ok = UtilConexion::$pdo->exec("DELETE FROM departamento WHERE codigo=$datos");
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
+        if ($_SESSION['rol']==5) {
+            $datos =$argumentos['id'];
+            error_log($datos);
+            $ok = UtilConexion::$pdo->exec("DELETE FROM departamento WHERE codigo=$datos");
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**

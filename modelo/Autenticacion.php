@@ -11,6 +11,7 @@
  *
  * @author Jorge Alejandro
  */
+session_start();
 include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
 
 class Autenticacion {
@@ -20,20 +21,24 @@ class Autenticacion {
 
     public function autenticarUsuario($argumentos) {
         extract($argumentos);
-        $sql = "SELECT codigo_rol FROM usuario WHERE nombreusuario='$nombreusuario' AND contrasena='$contrasena'";
+        $sql = "SELECT codigo, codigo_rol FROM usuario WHERE nombreusuario='$nombreusuario' AND contrasena='$contrasena'";
         $menu=null;
         if (($fila = UtilConexion::$pdo->query($sql)->fetch(PDO::FETCH_ASSOC))) {
             
             $rol = $fila['codigo_rol'];
+            $codigo = $fila['codigo'];
+            $_SESSION["rol"]=$rol;
+            $_SESSION["codigo"]=$codigo;
+            error_log($_SESSION["rol"]);
             switch ($rol) {
                 case 1:
-                    $menu = file_get_contents("../vista/html/AdmDocenteCoordinador.html");
-                    break;
-                case 2:
                     $menu = file_get_contents("../vista/html/AdmEstudiante.html");
                     break;
+                case 2:
+                    $menu = file_get_contents("../vista/html/AdmDocenteCoordinador.html");
+                    break;
                 case 3:
-                    $menu = file_get_contents("../vista/html/AdmResponsablePractica.html");
+                    $menu = file_get_contents("../vista/html/AdmDocenteCoordinador.html");
                     break;
                 case 4:
                     $menu = file_get_contents("../vista/html/AdmRepresentanteLegal.html");
@@ -47,7 +52,6 @@ class Autenticacion {
         {
             $menu="Error de usuario o contrasena";
         }
-        echo json_encode($menu);
-            
+        echo json_encode($menu);    
     }
 }

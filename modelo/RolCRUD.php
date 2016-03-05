@@ -7,24 +7,23 @@
  */
 
 /**
- * Description of EmpresaExternaCRUD
+ * Description of ConvenioCRUD
  *
  * @author Jorge Alejandro
  */
+
+
 session_start();
-//include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
-
-class EmpresaExternaCRUD implements Persistible {
-
+class RolCRUD {
     public function __construct() {
     }
 
     function add($argumentos) {
         if ($_SESSION['rol']==5) {
             extract($argumentos);
-            $sql = "INSERT INTO empresa_externa VALUES($codigo, '$nombre','$nit','$tipo','$direccion',$telefono,$codigo_representante_legal_empresa)";
+            $sql = "INSERT INTO rol VALUES($codigo, '$tiporol')";
             $ok = UtilConexion::$pdo->exec($sql);
-            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la empresa"));
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar el rol"));
         }
         else{
             echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
@@ -41,10 +40,7 @@ class EmpresaExternaCRUD implements Persistible {
     function edit($argumentos) {
         if ($_SESSION['rol']==5) {
             extract($argumentos);
-            $sql = "UPDATE empresa_externa set nombre='$nombre',nit='$nit',tipo='$tipo',direccion='$direccion',telefono=$telefono,codigo_representante_legal_empresa=$codigo_representante_legal_empresa WHERE codigo=$codigo";
-            error_log($codigo);
-            error_log($nombre);
-            error_log($tipo);
+            $sql = "UPDATE rol set tiporol='$tiporol' WHERE codigo=$codigo";
             $ok = UtilConexion::$pdo->exec($sql);
             echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la actualización de los datos"));
         }
@@ -63,7 +59,8 @@ class EmpresaExternaCRUD implements Persistible {
         if ($_SESSION['rol']==5) {
             $datos =$argumentos['id'];
     //        extract($argumentos);
-            $ok = UtilConexion::$pdo->exec("DELETE FROM empresa_externa WHERE codigo=$datos");
+            error_log($datos);
+            $ok = UtilConexion::$pdo->exec("DELETE FROM rol WHERE codigo=$datos");
             echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
         }
         else{
@@ -78,8 +75,7 @@ class EmpresaExternaCRUD implements Persistible {
      */
     function select($argumentos) {
         extract($argumentos);
-        error_log("LLega hasta el select");
-        $count = UtilConexion::$pdo->query("SELECT codigo FROM empresa_externa")->rowCount();
+        $count = UtilConexion::$pdo->query("SELECT codigo FROM rol")->rowCount();
         // Calcula el total de páginas por consulta
         if ($count > 0) {
             $total_pages = ceil($count / $rows);
@@ -104,11 +100,11 @@ class EmpresaExternaCRUD implements Persistible {
             'page' => $page,
             'records' => $count
         ];
-        $sql = "SELECT * FROM empresa_externa ORDER BY $sidx $sord LIMIT $rows OFFSET $start";
+        $sql = "SELECT * FROM rol ORDER BY $sidx $sord LIMIT $rows OFFSET $start";
         foreach (UtilConexion::$pdo->query($sql) as $fila) {
             $respuesta['rows'][] = [
                 'codigo' => $fila['codigo'],
-                'cell' => [$fila['codigo'], $fila['nombre'], $fila['nit'], $fila['tipo'], $fila['direccion'], $fila['telefono'], $fila['codigo_representante_legal_empresa']]
+                'cell' => [$fila['codigo'], $fila['tiporol']]
             ];
         }
         echo json_encode($respuesta);

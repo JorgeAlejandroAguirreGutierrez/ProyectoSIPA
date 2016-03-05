@@ -11,16 +11,23 @@
  *
  * @author Jorge Alejandro
  */
+session_start();
+
 class PracticaExterna implements Persistible{
     
     public function __construct() {
     }
 
     function add($argumentos) {
-        extract($argumentos);
-        $sql = "INSERT INTO practica_externa VALUES($codigo, '$codigo_convenio','$codigo_practica')";
-        $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la Practica Externa"));
+        if ($_SESSION['rol']==5) {
+            extract($argumentos);
+            $sql = "INSERT INTO practica_externa VALUES($codigo, '$codigo_convenio','$codigo_practica')";
+            $ok = UtilConexion::$pdo->exec($sql);
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la Practica Externa"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**
@@ -31,10 +38,15 @@ class PracticaExterna implements Persistible{
      * corresponden a las columnas que se van a actualizar
      */
     function edit($argumentos) {
-        extract($argumentos);
-        $sql = "UPDATE practica_externa set codigo_convenio=$codigo_convenio,codigo_practica=$codigo_practica WHERE codigo=$codigo";
-        $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la actualización de los datos"));
+        if ($_SESSION['rol']==5) {
+            extract($argumentos);
+            $sql = "UPDATE practica_externa set codigo_convenio=$codigo_convenio,codigo_practica=$codigo_practica WHERE codigo=$codigo";
+            $ok = UtilConexion::$pdo->exec($sql);
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la actualización de los datos"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**
@@ -44,10 +56,15 @@ class PracticaExterna implements Persistible{
      * comas, que corresponden a los IDs de las filas a eliminar.
      */
     function del($argumentos) {
-        $datos =$argumentos['id'];
-//        extract($argumentos);
-        $ok = UtilConexion::$pdo->exec("DELETE FROM practica_externa WHERE codigo=$datos");
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
+        if ($_SESSION['rol']==5) {
+            $datos =$argumentos['id'];
+    //        extract($argumentos);
+            $ok = UtilConexion::$pdo->exec("DELETE FROM practica_externa WHERE codigo=$datos");
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**

@@ -1,0 +1,5508 @@
+[07-Dec-2015 17:31:04 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[07-Dec-2015 17:31:04 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 11:31:04 America/Bogota] ../modelo/Autenticacion.php
+[07-Dec-2015 17:37:51 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => DAN
+    [contrasena] => 123
+)
+
+[07-Dec-2015 17:37:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 11:37:51 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 01:37:38 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMA
+    [contrasena] => 123
+)
+
+[08-Dec-2015 01:37:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 19:37:38 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 01:38:06 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 01:38:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 19:38:06 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 02:53:39 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 02:53:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 20:53:39 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 02:59:05 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 02:59:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 20:59:05 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:02:53 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:02:53 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:02:53 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:05:10 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:05:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:05:10 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:06:25 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:06:25 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:06:25 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:07:50 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:07:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:07:50 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:11:34 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:11:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:11:34 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:14:13 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:14:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:14:13 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:38:37 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:38:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:38:37 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:40:19 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:40:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:40:19 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:42:40 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:42:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:42:40 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:42:44 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449542564588
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 03:42:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:42:44 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:47:10 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [codigo] => 2
+    [titulo] => INSTITUCION EL TIGRE
+    [razon] => CONVENIO PARA LLEVARME NIÑAS
+    [fecha_inicio] => 2015-08-08
+    [fecha_fin] => 2015-11-11
+    [codigo_empresa_externa] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[08-Dec-2015 03:47:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:47:10 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:47:58 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:47:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:47:58 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:48:01 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449542881168
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 03:48:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:48:01 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:49:01 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [codigo] => 2
+    [titulo] => TIGRE
+    [razon] => LLEVARME NIÑAS
+    [fecha_inicio] => 2015-07-07
+    [fecha_fin] => 2015-08-08
+    [codigo_empresa_externa] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[08-Dec-2015 03:49:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:49:01 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:49:09 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [codigo] => 2
+    [titulo] => TIGRE
+    [razon] => LLEVARME NIÑAS
+    [fecha_inicio] => 2015-07-07
+    [fecha_fin] => 2015-08-08
+    [codigo_empresa_externa] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[08-Dec-2015 03:49:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:49:09 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:51:29 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:51:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:51:29 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:51:32 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543092235
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 03:51:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:51:32 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:54:45 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:54:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:54:46 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:54:48 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543288662
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 03:54:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:54:48 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:56:21 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [codigo] => 3
+    [titulo] => EL TIGRE
+    [razon] => LLEVARME UN PUPITRE
+    [fecha_inicio] => 2015-02-02
+    [fecha_fin] => 2015-03-03
+    [codigo_empesa_externa] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[08-Dec-2015 03:56:21 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:56:21 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:58:10 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 03:58:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:58:10 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 03:58:13 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543493070
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 03:58:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:58:13 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:58:44 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [codigo] => 3
+    [titulo] => TIGRE
+    [razon] => PUPITRE
+    [fecha_inicio] => 2012-02-02
+    [fecha_fin] => 2013-05-05
+    [codigo_empesa_externa] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[08-Dec-2015 03:58:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:58:44 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 03:58:44 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543524526
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 03:58:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 21:58:44 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 04:00:24 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 04:00:24 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:00:24 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 04:00:26 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543626218
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 04:00:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:00:26 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 04:01:07 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [codigo] => 3
+    [titulo] => TIGRE
+    [razon] => LLEVARME NIÑAS
+    [fecha_inicio] => 2012-02-02
+    [fecha_fin] => 2013-05-05
+    [codigo_empesa_externa] => 1
+    [oper] => edit
+    [id] => 3
+)
+
+[08-Dec-2015 04:01:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:01:07 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 04:02:12 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 04:02:12 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:02:12 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 04:02:13 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543733968
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 04:02:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:02:14 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 04:02:35 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [codigo] => 3
+    [titulo] => TIGRE
+    [razon] => LLEVAR OTRO
+    [fecha_inicio] => 2012-02-02
+    [fecha_fin] => 2013-05-05
+    [codigo_empesa_externa] => 1
+    [oper] => edit
+    [id] => 3
+)
+
+[08-Dec-2015 04:02:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:02:35 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 04:02:35 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543755532
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 04:02:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:02:35 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 04:02:57 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => del
+    [id] => 3
+)
+
+[08-Dec-2015 04:02:57 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:02:57 America/Bogota] ../modelo/ConvenioCRUD.php
+[07-Dec-2015 22:02:57 America/Bogota] 3
+[08-Dec-2015 04:02:57 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449543777163
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 04:02:57 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[07-Dec-2015 22:02:57 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 17:31:41 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 17:31:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:31:41 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 17:31:44 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449592304618
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 17:31:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:31:45 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 17:34:03 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 17:34:03 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:34:03 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 17:34:11 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449592450582
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 17:34:11 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:34:11 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 17:39:26 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 17:39:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:39:26 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 17:40:59 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 17:40:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:40:59 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 17:41:14 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449592874899
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 17:41:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:41:15 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 17:42:12 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 17:42:12 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:42:12 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 17:42:15 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449592935719
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 17:42:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:42:15 America/Bogota] ../modelo/ConvenioCRUD.php
+[08-Dec-2015 17:43:45 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 17:43:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:43:45 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 17:43:49 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449593029155
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 17:43:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:43:49 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[08-Dec-2015 11:43:49 America/Bogota] PHP Fatal error:  Class 'PracticaInternaCRUD' not found in C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php on line 40
+[08-Dec-2015 11:43:49 America/Bogota] PHP Stack trace:
+[08-Dec-2015 11:43:49 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[08-Dec-2015 17:50:37 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[08-Dec-2015 17:50:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:50:37 America/Bogota] ../modelo/Autenticacion.php
+[08-Dec-2015 17:50:42 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449593442723
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[08-Dec-2015 17:50:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[08-Dec-2015 11:50:42 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 01:24:19 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:24:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:24:20 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:25:08 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:25:08 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:25:08 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:25:10 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449707110217
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 01:25:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:25:10 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 01:27:18 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:27:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:27:18 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:27:22 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449707242450
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 01:27:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:27:22 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 01:30:58 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:30:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:30:58 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:34:15 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:34:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:34:15 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:34:20 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449707659988
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 01:34:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:34:20 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 01:34:33 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449707673447
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => desc
+)
+
+[10-Dec-2015 01:34:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:34:33 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 01:34:34 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449707674576
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 01:34:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:34:34 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 01:34:35 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449707675559
+    [rows] => 20
+    [page] => 1
+    [sidx] => titulo
+    [sord] => asc
+)
+
+[10-Dec-2015 01:34:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:34:35 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 01:36:44 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:36:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:36:44 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:36:47 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449707806989
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 01:36:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:36:47 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 01:44:57 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:44:57 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:44:57 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:59:37 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 01:59:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:59:37 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 01:59:50 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449709190382
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 01:59:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 19:59:50 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:05:06 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:05:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:05:06 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:05:09 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449709509845
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:05:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:05:09 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:05:20 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449709520075
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:05:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:05:20 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:06:07 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:06:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:06:07 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:06:11 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449709571200
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:06:11 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:06:11 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:06:16 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449709576026
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:06:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:06:16 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:16:31 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:16:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:16:31 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:23:58 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:23:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:23:58 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:25:44 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:25:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:25:44 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:25:57 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449710757180
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:25:57 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:25:57 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:26:02 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449710762853
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:26:02 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:26:02 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:30:35 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:30:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:30:35 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:30:38 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711037276
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:30:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:30:38 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:30:42 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711042133
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:30:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:30:42 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:30:48 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711048035
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:30:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:30:48 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:36:18 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:36:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:36:18 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:36:22 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711382054
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:36:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:36:22 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:36:27 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711387657
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:36:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:36:27 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:39:41 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:39:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:39:41 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:39:43 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711583245
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:39:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:39:43 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:39:47 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711587872
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:39:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:39:47 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:39:50 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449711590019
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:39:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:39:50 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:50:42 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449712242568
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:50:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:50:42 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:51:11 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [codigo] => 1
+    [codigo_dependencia] => 2
+    [codigo_practica] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[10-Dec-2015 02:51:11 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:51:11 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:51:35 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449712295636
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:51:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:51:35 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 02:51:37 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449712297420
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:51:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:51:37 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:56:40 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 02:56:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:56:40 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 02:56:42 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449712602633
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 02:56:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:56:42 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 02:56:52 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [codigo] => 1
+    [codigo_dependencia] => 2
+    [codigo_practica] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[10-Dec-2015 02:56:52 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 20:56:52 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:01:08 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 03:01:08 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:01:08 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 03:01:16 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449712876500
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:01:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:01:16 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:01:26 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [codigo] => 1
+    [codigo_dependencia] => 2
+    [codigo_practica] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[10-Dec-2015 03:01:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:01:26 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:08:10 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 03:08:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:08:10 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 03:08:14 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713294497
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:08:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:08:14 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:08:23 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [codigo] => 2
+    [codigo_dependencia] => 2
+    [codigo_practica] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[10-Dec-2015 03:08:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:08:23 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:08:26 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713306279
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:08:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:08:26 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:08:47 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713327236
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+    [filters] => 
+)
+
+[10-Dec-2015 03:08:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:08:47 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:11:40 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 03:11:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:11:40 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 03:11:44 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713504034
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:11:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:11:44 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:12:00 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [codigo] => 1
+    [codigo_dependencia] => 2
+    [codigo_practica] => 1
+    [oper] => edit
+    [id] => 1
+)
+
+[10-Dec-2015 03:12:00 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:12:00 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:12:00 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713520639
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:12:00 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:12:00 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:12:16 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [codigo] => 1
+    [codigo_dependencia] => 1
+    [codigo_practica] => 1
+    [oper] => edit
+    [id] => 1
+)
+
+[10-Dec-2015 03:12:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:12:16 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:12:16 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713536278
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:12:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:12:16 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:14:17 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => del
+    [id] => 1
+)
+
+[10-Dec-2015 03:14:17 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:14:17 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:14:17 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713657845
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:14:17 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:14:17 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:14:24 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713664148
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+    [filters] => 
+)
+
+[10-Dec-2015 03:14:24 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:14:24 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:14:28 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [codigo] => 1
+    [codigo_dependencia] => 1
+    [codigo_practica] => 1
+    [oper] => add
+    [id] => _empty
+)
+
+[10-Dec-2015 03:14:28 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:14:28 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:14:28 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713668086
+    [rows] => 20
+    [page] => 0
+    [sidx] => codigo
+    [sord] => asc
+    [filters] => 
+)
+
+[10-Dec-2015 03:14:28 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:14:28 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:15:13 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713713841
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:15:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:15:13 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 03:15:16 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713716909
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:15:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:15:16 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 03:16:06 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449713766363
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 03:16:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 21:16:06 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 04:08:50 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 04:08:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:08:50 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 04:08:54 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449716934808
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 04:08:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:08:54 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 04:08:58 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449716938396
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 04:08:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:08:58 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 04:09:01 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449716941716
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 04:09:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:09:01 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[09-Dec-2015 22:09:01 America/Bogota] ../modelo/Persistible.php
+[09-Dec-2015 22:09:01 America/Bogota] LLega hasta el select
+[10-Dec-2015 04:11:25 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 04:11:25 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:11:25 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 04:11:27 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449717087825
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 04:11:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:11:27 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 04:11:33 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449717093219
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 04:11:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:11:33 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 04:11:35 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449717095185
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 04:11:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 22:11:35 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[09-Dec-2015 22:11:35 America/Bogota] ../modelo/Persistible.php
+[09-Dec-2015 22:11:35 America/Bogota] LLega hasta el select
+[10-Dec-2015 05:06:49 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 05:06:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:06:49 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 05:06:54 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720414265
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:06:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:06:54 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 05:06:55 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720415815
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:06:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:06:55 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 05:06:57 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720417357
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:06:57 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:06:57 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 05:07:00 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720420454
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:07:00 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:07:00 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 05:07:01 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720421083
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:07:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:07:01 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 05:07:02 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720422493
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:07:02 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:07:02 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 05:07:08 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720428891
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:07:08 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:07:08 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 05:07:09 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720429923
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:07:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:07:09 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 05:07:11 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720431467
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:07:11 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:07:11 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 05:07:18 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449720438749
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 05:07:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[09-Dec-2015 23:07:18 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[09-Dec-2015 23:07:18 America/Bogota] ../modelo/Persistible.php
+[09-Dec-2015 23:07:18 America/Bogota] LLega hasta el select
+[10-Dec-2015 15:25:32 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 15:25:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:25:32 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 15:25:36 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757536492
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:25:36 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:25:36 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 15:25:38 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757538774
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:25:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:25:38 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 15:25:40 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757540396
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:25:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:25:40 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 15:25:45 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757545199
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:25:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:25:45 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 09:25:45 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 09:25:45 America/Bogota] LLega hasta el select
+[10-Dec-2015 15:25:49 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757549282
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:25:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:25:49 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 09:25:49 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 15:28:42 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 15:28:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:42 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 15:28:43 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757723776
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:43 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 15:28:45 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757725627
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:45 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 15:28:47 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757727074
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:47 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 15:28:49 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757729850
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:49 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 09:28:49 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 09:28:49 America/Bogota] LLega hasta el select
+[10-Dec-2015 15:28:51 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757731233
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:51 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 09:28:51 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 15:28:52 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757732967
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:52 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:53 America/Bogota] ../modelo/DependenciaCRUD.php
+[10-Dec-2015 15:28:58 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757738085
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:58 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 15:28:58 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449757738952
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 15:28:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 09:28:58 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 21:07:59 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 21:07:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:07:59 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:08:02 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449778082213
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:02 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:02 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 21:08:06 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449778086220
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:06 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 21:08:07 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449778087699
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:07 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 21:08:10 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449778090675
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:10 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 15:08:10 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 15:08:10 America/Bogota] LLega hasta el select
+[10-Dec-2015 21:08:11 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449778091882
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:11 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:11 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 15:08:11 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:08:13 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449778093709
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:13 America/Bogota] ../modelo/DependenciaCRUD.php
+[10-Dec-2015 21:08:21 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449778101816
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:21 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:21 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:08:21 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:08:26 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449778106107
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:26 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:08:26 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:08:35 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449778115021
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:35 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:08:35 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:08:36 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449778116453
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:36 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:36 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:08:36 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:08:38 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449778118203
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:38 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:08:38 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:08:40 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449778120389
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:40 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:08:40 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:08:42 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449778122683
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:08:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:08:42 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:08:42 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:09:35 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449778175739
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:09:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:09:35 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:09:35 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:09:37 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449778177330
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:09:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:09:37 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:09:37 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:17:19 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449778639053
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:17:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:17:19 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:17:19 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:18:56 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449778736014
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:18:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:18:56 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:18:56 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:19:43 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449778783782
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:19:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:19:43 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:19:43 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:19:44 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449778784666
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:19:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:19:44 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:19:44 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:19:46 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449778786451
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:19:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:19:46 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:19:46 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:19:47 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449778787388
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:19:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:19:47 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:19:47 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:19:48 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449778788872
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:19:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:19:48 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:19:48 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:19:49 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449778789790
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:19:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:19:49 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:19:49 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:20:34 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 21:20:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:20:34 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:20:51 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 21:20:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:20:51 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:24:57 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 21:24:57 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:24:57 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:25:04 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449779104890
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:25:04 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:25:04 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:25:04 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:25:36 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 21:25:36 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:25:36 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:25:40 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449779140795
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:25:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:25:40 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:25:40 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:25:58 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 21:25:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:25:58 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:26:01 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449779161685
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:26:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:26:01 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 21:26:05 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449779165312
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:26:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:26:05 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:26:05 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:35:42 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 21:35:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:42 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:35:44 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449779744752
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:44 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 21:35:46 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449779746484
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:46 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 21:35:47 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449779747823
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:47 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 21:35:50 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449779750374
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:50 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 15:35:50 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 15:35:50 America/Bogota] LLega hasta el select
+[10-Dec-2015 21:35:51 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449779751699
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:51 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 15:35:51 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:35:53 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449779753124
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:53 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:53 America/Bogota] ../modelo/DependenciaCRUD.php
+[10-Dec-2015 21:35:55 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449779755301
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:55 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:35:55 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:35:56 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449779756870
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:56 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:35:56 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:35:58 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449779758944
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:35:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:35:59 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:35:59 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:36:03 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449779763635
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:36:03 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:36:03 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:36:03 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:36:05 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449779765094
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:36:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:36:05 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:36:05 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:36:09 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449779769646
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:36:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:36:09 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:36:09 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:44:39 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780279249
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:44:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:44:39 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 21:44:40 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780280787
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:44:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:44:40 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 21:44:41 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780281729
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:44:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:44:41 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 21:45:51 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780351168
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:51 America/Bogota] ../modelo/ConvenioCRUD.php
+[10-Dec-2015 21:45:52 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780352428
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:52 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:52 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[10-Dec-2015 21:45:53 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780353049
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:53 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:53 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[10-Dec-2015 21:45:54 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780354117
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:54 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 15:45:54 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 15:45:54 America/Bogota] LLega hasta el select
+[10-Dec-2015 21:45:54 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780354705
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:54 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 15:45:54 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:45:55 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449780355375
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:55 America/Bogota] ../modelo/DependenciaCRUD.php
+[10-Dec-2015 21:45:56 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449780356709
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:56 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:45:56 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:45:58 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449780358029
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:58 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:45:58 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:45:58 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449780358567
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:58 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:58 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:45:58 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:45:59 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449780359094
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:59 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:45:59 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:45:59 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449780359510
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:45:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:45:59 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:45:59 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:46:00 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449780360818
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:46:00 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:46:00 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:46:00 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:46:04 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449780364117
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:46:04 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:46:04 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:46:04 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:46:05 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449780365278
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:46:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:46:05 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:46:05 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:46:05 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449780365782
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:46:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:46:05 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:46:05 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:46:06 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449780366798
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:46:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:46:06 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:46:06 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 21:46:07 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449780367853
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[10-Dec-2015 21:46:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 15:46:07 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 15:46:07 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 23:25:34 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:25:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:25:34 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:26:54 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:26:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:26:54 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:29:23 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:29:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:29:23 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:31:31 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:31:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:31:31 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:31:43 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[10-Dec-2015 23:31:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:31:43 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[10-Dec-2015 17:31:47 America/Bogota] Entre al metodo 3
+[10-Dec-2015 23:40:36 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:40:36 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:40:36 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:40:44 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[10-Dec-2015 23:40:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:40:44 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[10-Dec-2015 17:40:44 America/Bogota] Entre al metodo 3
+[10-Dec-2015 17:40:44 America/Bogota] Entre al FINAL
+[10-Dec-2015 23:49:29 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:49:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:49:29 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:49:35 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[10-Dec-2015 23:49:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:49:35 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[10-Dec-2015 17:49:35 America/Bogota] Entre al metodo 3
+[10-Dec-2015 17:49:35 America/Bogota] PHP Fatal error:  Attempt to unset static property UtilReportes::$objPHPExcel in C:\xampp\htdocs\ProyectoSIPA\serviciosTecnicos\utilidades\UtilReportes.php on line 36
+[10-Dec-2015 17:49:35 America/Bogota] PHP Stack trace:
+[10-Dec-2015 17:49:35 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[10-Dec-2015 17:49:35 America/Bogota] PHP   2. UtilReportes::generarReporteConvenio() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:38
+[10-Dec-2015 17:49:35 America/Bogota] PHP   3. UtilReportes::guardarLibro() C:\xampp\htdocs\ProyectoSIPA\serviciosTecnicos\utilidades\UtilReportes.php:81
+[10-Dec-2015 23:50:16 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:50:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:50:16 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:50:20 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[10-Dec-2015 23:50:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:50:20 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[10-Dec-2015 17:50:20 America/Bogota] Entre al metodo 3
+[10-Dec-2015 23:51:19 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:51:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:51:19 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:51:24 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[10-Dec-2015 23:51:24 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:51:24 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[10-Dec-2015 17:51:24 America/Bogota] Entre al metodo 3
+[10-Dec-2015 23:53:07 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[10-Dec-2015 23:53:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:53:07 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:53:11 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[10-Dec-2015 23:53:11 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 17:53:11 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[10-Dec-2015 17:53:11 America/Bogota] Entre al metodo 3
+[11-Dec-2015 02:35:52 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 02:35:52 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:35:52 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 02:35:54 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797754023
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:35:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:35:54 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 02:35:56 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797756328
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:35:56 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:35:56 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[11-Dec-2015 02:35:57 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797757394
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:35:57 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:35:57 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[11-Dec-2015 02:35:59 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797759396
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:35:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:35:59 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[11-Dec-2015 02:35:59 Europe/Berlin] Array
+(
+    [clase] => PracticaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797759896
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:35:59 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:35:59 America/Bogota] ../modelo/PracticaExternaCRUD.php
+[11-Dec-2015 02:36:01 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797761185
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:01 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 02:36:03 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797763163
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:03 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:03 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 20:36:03 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 20:36:03 America/Bogota] LLega hasta el select
+[11-Dec-2015 02:36:06 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797766752
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:06 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 20:36:06 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:36:07 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797767887
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:07 America/Bogota] ../modelo/DependenciaCRUD.php
+[11-Dec-2015 02:36:08 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797768871
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:08 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:08 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 20:36:08 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:36:09 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449797769330
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:09 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 20:36:09 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 20:36:09 America/Bogota] LLega hasta el select
+[11-Dec-2015 02:36:15 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449797775739
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:15 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 20:36:15 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:36:16 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449797776641
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:16 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:16 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 20:36:16 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:36:17 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449797777698
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:17 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:17 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 20:36:17 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:36:18 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449797778284
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:18 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 20:36:18 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:36:19 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449797779362
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:36:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:19 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 20:36:19 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:36:29 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[11-Dec-2015 02:36:29 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReportePractica
+    [archivo] => practica1.xlsx
+)
+
+[11-Dec-2015 02:36:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 02:36:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:36:29 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[10-Dec-2015 20:36:29 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[11-Dec-2015 02:50:04 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 02:50:04 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:04 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 20:50:04 America/Bogota] 5
+[11-Dec-2015 02:50:14 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798614973
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:15 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 02:50:17 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798617411
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:17 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:17 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[11-Dec-2015 02:50:18 Europe/Berlin] Array
+(
+    [clase] => PracticaExterna
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798618187
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:18 America/Bogota] ../modelo/PracticaExterna.php
+[10-Dec-2015 20:50:18 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:50:20 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798620376
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:20 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 20:50:20 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 20:50:20 America/Bogota] LLega hasta el select
+[11-Dec-2015 02:50:21 Europe/Berlin] Array
+(
+    [clase] => ProgramaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798621100
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:21 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:21 America/Bogota] ../modelo/ProgramaCRUD.php
+[11-Dec-2015 02:50:22 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798622314
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:22 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 20:50:22 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:50:23 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798623431
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:23 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:23 America/Bogota] ../modelo/DependenciaCRUD.php
+[11-Dec-2015 02:50:24 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798624395
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:24 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:24 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:50:26 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798626694
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:26 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 02:50:30 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798630050
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:30 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:30 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:50:31 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798631072
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:31 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 02:50:31 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798631684
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:31 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:50:32 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798632133
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:32 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 02:50:32 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798632644
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:32 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:50:33 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798633076
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:33 America/Bogota] ../modelo/DependenciaCRUD.php
+[11-Dec-2015 02:50:34 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798634101
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:34 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 20:50:34 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:50:34 Europe/Berlin] Array
+(
+    [clase] => ProgramaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798634477
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:34 America/Bogota] ../modelo/ProgramaCRUD.php
+[11-Dec-2015 02:50:36 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798636013
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:36 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:36 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 20:50:36 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 20:50:36 America/Bogota] LLega hasta el select
+[11-Dec-2015 02:50:37 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798637542
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:37 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:50:38 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798638541
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:38 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 02:50:39 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798639106
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:39 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:50:39 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798639902
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:39 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 02:50:40 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798640558
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:40 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 02:50:40 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798640989
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:50:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:50:41 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:55:33 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 02:55:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:33 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 20:55:33 America/Bogota] 5
+[11-Dec-2015 02:55:35 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798935479
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:35 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 02:55:37 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798937702
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:37 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[11-Dec-2015 02:55:38 Europe/Berlin] Array
+(
+    [clase] => PracticaExterna
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798938390
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:38 America/Bogota] ../modelo/PracticaExterna.php
+[10-Dec-2015 20:55:38 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:55:41 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798941304
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:41 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 20:55:41 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 20:55:41 America/Bogota] LLega hasta el select
+[11-Dec-2015 02:55:42 Europe/Berlin] Array
+(
+    [clase] => ProgramaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798942054
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:42 America/Bogota] ../modelo/ProgramaCRUD.php
+[11-Dec-2015 02:55:42 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798942787
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:42 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 20:55:42 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:55:43 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798943383
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:43 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 20:55:43 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:55:43 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798943982
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:44 America/Bogota] ../modelo/DependenciaCRUD.php
+[11-Dec-2015 02:55:44 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798944763
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:44 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 02:55:47 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449798947349
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:47 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 02:55:50 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449798950925
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:55:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:55:50 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 20:55:50 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:56:05 Europe/Berlin] Array
+(
+    [clase] => UtilCertificados
+    [oper] => generarPDF
+)
+
+[11-Dec-2015 02:56:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:56:05 America/Bogota] ../serviciosTecnicos/utilidades/UtilCertificados.php
+[11-Dec-2015 02:56:06 Europe/Berlin] Array
+(
+    [clase] => UtilCertificados
+    [oper] => generarPDF
+)
+
+[11-Dec-2015 02:56:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:56:06 America/Bogota] ../serviciosTecnicos/utilidades/UtilCertificados.php
+[11-Dec-2015 02:57:42 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 02:57:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:42 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 20:57:42 America/Bogota] 5
+[11-Dec-2015 02:57:44 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449799064850
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:57:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:44 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 02:57:46 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449799066598
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:57:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:46 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[11-Dec-2015 02:57:47 Europe/Berlin] Array
+(
+    [clase] => PracticaExterna
+    [oper] => select
+    [_search] => false
+    [nd] => 1449799067548
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:57:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:47 America/Bogota] ../modelo/PracticaExterna.php
+[10-Dec-2015 20:57:47 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:57:49 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449799069044
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:57:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:49 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[10-Dec-2015 20:57:49 America/Bogota] ../modelo/Persistible.php
+[10-Dec-2015 20:57:49 America/Bogota] LLega hasta el select
+[11-Dec-2015 02:57:50 Europe/Berlin] Array
+(
+    [clase] => ProgramaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449799070792
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:57:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:50 America/Bogota] ../modelo/ProgramaCRUD.php
+[11-Dec-2015 02:57:51 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449799071843
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:57:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:51 America/Bogota] ../modelo/DepartamentoCRUD.php
+[10-Dec-2015 20:57:51 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 02:57:54 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449799074959
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 02:57:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:57:55 America/Bogota] ../modelo/DependenciaCRUD.php
+[11-Dec-2015 02:58:06 Europe/Berlin] Array
+(
+    [clase] => UtilCertificados
+    [oper] => generarPDF
+)
+
+[11-Dec-2015 02:58:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:58:06 America/Bogota] ../serviciosTecnicos/utilidades/UtilCertificados.php
+[11-Dec-2015 02:58:47 Europe/Berlin] Array
+(
+    [clase] => UtilCertificados
+    [oper] => generarPDF
+)
+
+[11-Dec-2015 02:58:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 20:58:47 America/Bogota] ../serviciosTecnicos/utilidades/UtilCertificados.php
+[11-Dec-2015 03:06:35 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:06:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:06:35 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:06:35 America/Bogota] 5
+[11-Dec-2015 03:06:46 Europe/Berlin] Array
+(
+    [clase] => UtilCertificados
+    [oper] => generarPDF
+)
+
+[11-Dec-2015 03:06:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:06:46 America/Bogota] ../serviciosTecnicos/utilidades/UtilCertificados.php
+[11-Dec-2015 03:16:55 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:16:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:16:55 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:16:55 America/Bogota] 5
+[11-Dec-2015 03:17:53 Europe/Berlin] Array
+(
+    [clase] => UtilReportes
+    [oper] => generarReporteConvenio
+    [archivo] => convenio1.xlsx
+)
+
+[11-Dec-2015 03:17:53 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:17:53 America/Bogota] ../serviciosTecnicos/utilidades/UtilReportes.php
+[11-Dec-2015 03:18:05 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449800285516
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 03:18:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:18:05 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 21:18:05 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 03:18:06 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449800286689
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 03:18:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:18:06 America/Bogota] ../modelo/UsuarioCRUD.php
+[10-Dec-2015 21:18:06 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 03:18:20 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449800300549
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 03:18:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:18:20 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 03:18:31 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+)
+
+[11-Dec-2015 03:18:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:18:31 America/Bogota] ../modelo/Certificado.php
+[11-Dec-2015 03:27:55 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:27:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:27:55 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:27:55 America/Bogota] 5
+[11-Dec-2015 03:28:02 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:28:02 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:28:02 America/Bogota] ../modelo/Certificado.php
+[11-Dec-2015 03:30:00 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:30:00 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:30:00 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:30:00 America/Bogota] 5
+[11-Dec-2015 03:30:05 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:30:05 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:30:05 America/Bogota] ../modelo/Certificado.php
+[11-Dec-2015 03:34:44 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:34:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:34:44 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:34:44 America/Bogota] 5
+[11-Dec-2015 03:34:48 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:34:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:34:48 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:34:48 America/Bogota] llegue al pdf
+[11-Dec-2015 03:34:49 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:34:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:34:49 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:34:49 America/Bogota] llegue al pdf
+[11-Dec-2015 03:35:32 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:35:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:35:32 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:35:32 America/Bogota] 5
+[11-Dec-2015 03:35:35 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:35:35 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:35:35 America/Bogota] ../modelo/Certificado.php
+[11-Dec-2015 03:37:13 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:37:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:13 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:37:13 America/Bogota] 5
+[11-Dec-2015 03:37:20 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:20 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:20 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:20 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:37:27 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:27 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:27 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:27 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:37:29 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:29 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:29 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:29 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:37:29 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:29 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:29 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:29 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:37:29 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:29 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:29 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:29 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:37:32 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:33 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:33 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:33 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:37:33 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:33 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:33 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:33 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:37:33 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:37:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:37:33 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:37:33 America/Bogota] llegue al pdf
+[10-Dec-2015 21:37:33 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:48 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:48 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:48 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:48 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:49 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:49 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:49 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:49 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:49 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:49 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:49 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:49 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:49 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:49 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:50 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:50 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:50 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:50 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:50 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:50 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:50 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:50 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:38:50 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:38:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:38:50 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:38:50 America/Bogota] llegue al pdf
+[10-Dec-2015 21:38:50 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:40:48 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:40:48 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:40:48 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:40:48 America/Bogota] 5
+[11-Dec-2015 03:40:52 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:40:52 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:40:52 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:40:52 America/Bogota] llegue al pdf
+[10-Dec-2015 21:40:52 America/Bogota] ../modelo/FPDF.php
+[11-Dec-2015 03:42:23 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:42:24 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:42:24 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:42:24 America/Bogota] 5
+[11-Dec-2015 03:42:30 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:42:30 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:42:30 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:42:30 America/Bogota] llegue al pdf
+[11-Dec-2015 03:46:30 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:46:30 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:46:30 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:46:30 America/Bogota] 5
+[11-Dec-2015 03:46:34 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:46:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:46:34 America/Bogota] ../modelo/Certificado.php
+[11-Dec-2015 03:47:07 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:47:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:47:07 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:47:07 America/Bogota] 5
+[11-Dec-2015 03:47:10 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:47:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:47:10 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:47:10 America/Bogota] llegue al pdf
+[11-Dec-2015 03:51:12 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:51:12 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:51:12 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:51:12 America/Bogota] 5
+[11-Dec-2015 03:51:18 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:51:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:51:18 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:51:18 America/Bogota] PHP Fatal error:  Class 'Certificado' not found in C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php on line 40
+[10-Dec-2015 21:51:18 America/Bogota] PHP Stack trace:
+[10-Dec-2015 21:51:18 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[11-Dec-2015 03:52:11 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:52:11 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:52:11 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:52:11 America/Bogota] 5
+[11-Dec-2015 03:52:15 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:52:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:52:15 America/Bogota] ../modelo/Certificado.php
+[11-Dec-2015 03:52:51 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 03:52:51 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:52:51 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 21:52:51 America/Bogota] 5
+[11-Dec-2015 03:52:54 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 03:52:54 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 21:52:54 America/Bogota] ../modelo/Certificado.php
+[10-Dec-2015 21:52:54 America/Bogota] ../modelo/FPDF.php
+[10-Dec-2015 21:52:54 America/Bogota] PHP Fatal error:  Class 'Certificado' not found in C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php on line 40
+[10-Dec-2015 21:52:54 America/Bogota] PHP Stack trace:
+[10-Dec-2015 21:52:54 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[11-Dec-2015 05:37:45 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 05:37:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 23:37:45 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:37:45 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Autenticacion.php on line 26
+[10-Dec-2015 23:37:45 America/Bogota] PHP Stack trace:
+[10-Dec-2015 23:37:45 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[10-Dec-2015 23:37:45 America/Bogota] PHP   2. Autenticacion->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[11-Dec-2015 05:38:01 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 05:38:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 23:38:01 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:38:01 America/Bogota] PHP Fatal error:  Call to a member function fetch() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\Autenticacion.php on line 26
+[10-Dec-2015 23:38:01 America/Bogota] PHP Stack trace:
+[10-Dec-2015 23:38:01 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[10-Dec-2015 23:38:01 America/Bogota] PHP   2. Autenticacion->autenticarUsuario() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[11-Dec-2015 05:39:12 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 05:39:12 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 23:39:12 America/Bogota] ../modelo/Autenticacion.php
+[10-Dec-2015 23:39:12 America/Bogota] 5
+[11-Dec-2015 05:39:14 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449808754592
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 05:39:14 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 23:39:14 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 05:39:19 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449808759894
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 05:39:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[10-Dec-2015 23:39:20 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 06:08:33 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:08:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:08:33 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:08:33 America/Bogota] 2
+[11-Dec-2015 06:09:40 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:09:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:09:40 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:09:40 America/Bogota] 2
+[11-Dec-2015 06:15:06 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:15:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:15:06 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:15:06 America/Bogota] 2
+[11-Dec-2015 06:15:15 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449810915301
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 06:15:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:15:15 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:15:15 America/Bogota] PHP Fatal error:  Call to a member function rowCount() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\PracticaCRUD.php on line 100
+[11-Dec-2015 00:15:15 America/Bogota] PHP Stack trace:
+[11-Dec-2015 00:15:15 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[11-Dec-2015 00:15:15 America/Bogota] PHP   2. PracticaCRUD->selectConsulta1() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[11-Dec-2015 06:15:26 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449810926612
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+    [filters] => 
+)
+
+[11-Dec-2015 06:15:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:15:26 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:15:26 America/Bogota] PHP Fatal error:  Call to a member function rowCount() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\PracticaCRUD.php on line 100
+[11-Dec-2015 00:15:26 America/Bogota] PHP Stack trace:
+[11-Dec-2015 00:15:26 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[11-Dec-2015 00:15:26 America/Bogota] PHP   2. PracticaCRUD->selectConsulta1() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[11-Dec-2015 06:19:41 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:19:41 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:19:41 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:19:41 America/Bogota] 2
+[11-Dec-2015 06:19:46 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811186392
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 06:19:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:19:46 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:19:46 America/Bogota] 
+[11-Dec-2015 00:19:46 America/Bogota] PHP Fatal error:  Call to a member function rowCount() on a non-object in C:\xampp\htdocs\ProyectoSIPA\modelo\PracticaCRUD.php on line 101
+[11-Dec-2015 00:19:46 America/Bogota] PHP Stack trace:
+[11-Dec-2015 00:19:46 America/Bogota] PHP   1. {main}() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:0
+[11-Dec-2015 00:19:46 America/Bogota] PHP   2. PracticaCRUD->selectConsulta1() C:\xampp\htdocs\ProyectoSIPA\controlador\fachada.php:41
+[11-Dec-2015 06:23:33 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:23:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:23:33 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:23:33 America/Bogota] 2
+[11-Dec-2015 06:23:37 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811417621
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 06:23:37 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:23:37 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:23:37 America/Bogota] 
+[11-Dec-2015 06:23:44 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811424607
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => desc
+)
+
+[11-Dec-2015 06:23:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:23:44 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:23:44 America/Bogota] 
+[11-Dec-2015 06:23:45 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811425273
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 06:23:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:23:45 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:23:45 America/Bogota] 
+[11-Dec-2015 06:23:46 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811426202
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+    [filters] => 
+)
+
+[11-Dec-2015 06:23:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:23:46 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:23:46 America/Bogota] 
+[11-Dec-2015 06:24:34 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:24:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:24:34 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:24:34 America/Bogota] 2
+[11-Dec-2015 06:24:38 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811478596
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 06:24:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:24:38 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:24:38 America/Bogota] 
+[11-Dec-2015 06:24:44 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811484354
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+    [filters] => 
+)
+
+[11-Dec-2015 06:24:44 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:24:44 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:24:44 America/Bogota] 
+[11-Dec-2015 06:25:43 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:25:43 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:25:43 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:25:43 America/Bogota] 5
+[11-Dec-2015 06:25:45 Europe/Berlin] Array
+(
+    [clase] => Certificado
+    [oper] => generarPDF
+    [uno] => 1
+)
+
+[11-Dec-2015 06:25:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:25:45 America/Bogota] ../modelo/Certificado.php
+[11-Dec-2015 06:26:04 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:26:04 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:26:04 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:26:04 America/Bogota] 2
+[11-Dec-2015 06:26:10 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811570741
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 06:26:10 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:26:10 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:26:10 America/Bogota] 
+[11-Dec-2015 06:29:18 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => huguin
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:29:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:29:18 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 06:29:27 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => HUGUIN
+    [contrasena] => 123
+)
+
+[11-Dec-2015 06:29:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:29:28 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 00:29:28 America/Bogota] 2
+[11-Dec-2015 06:29:33 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => selectConsulta1
+    [_search] => false
+    [nd] => 1449811773474
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 06:29:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 00:29:33 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 00:29:33 America/Bogota] 6
+[11-Dec-2015 13:38:42 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => ANDRES
+    [contrasena] => 123
+)
+
+[11-Dec-2015 13:38:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:38:42 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 07:38:42 America/Bogota] 1
+[11-Dec-2015 13:38:55 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449837535367
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:38:55 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:38:55 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 13:47:38 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838058328
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:47:38 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:47:38 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[11-Dec-2015 07:47:38 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 07:47:38 America/Bogota] LLega hasta el select
+[11-Dec-2015 13:47:39 Europe/Berlin] Array
+(
+    [clase] => ProgramaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838059599
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:47:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:47:39 America/Bogota] ../modelo/ProgramaCRUD.php
+[11-Dec-2015 13:47:40 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838060846
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:47:40 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:47:40 America/Bogota] ../modelo/DepartamentoCRUD.php
+[11-Dec-2015 07:47:40 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:47:42 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838062866
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:47:42 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:47:42 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 13:47:45 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838065112
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:47:45 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:47:45 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 13:56:06 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 13:56:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:06 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 07:56:06 America/Bogota] 5
+[11-Dec-2015 13:56:09 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838569140
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:09 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 13:56:12 Europe/Berlin] Array
+(
+    [clase] => PracticaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838572561
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:12 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:12 America/Bogota] ../modelo/PracticaCRUD.php
+[11-Dec-2015 13:56:13 Europe/Berlin] Array
+(
+    [clase] => PracticaInternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838573866
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:13 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:13 America/Bogota] ../modelo/PracticaInternaCRUD.php
+[11-Dec-2015 13:56:15 Europe/Berlin] Array
+(
+    [clase] => PracticaExterna
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838575161
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:15 America/Bogota] ../modelo/PracticaExterna.php
+[11-Dec-2015 07:56:15 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:17 Europe/Berlin] Array
+(
+    [clase] => EmpresaExternaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838577081
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:17 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:17 America/Bogota] ../modelo/EmpresaExternaCRUD.php
+[11-Dec-2015 07:56:17 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 07:56:17 America/Bogota] LLega hasta el select
+[11-Dec-2015 13:56:18 Europe/Berlin] Array
+(
+    [clase] => ProgramaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838578282
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:18 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:18 America/Bogota] ../modelo/ProgramaCRUD.php
+[11-Dec-2015 13:56:19 Europe/Berlin] Array
+(
+    [clase] => DepartamentoCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838579261
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:19 America/Bogota] ../modelo/DepartamentoCRUD.php
+[11-Dec-2015 07:56:19 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:20 Europe/Berlin] Array
+(
+    [clase] => DependenciaCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838580182
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:20 America/Bogota] ../modelo/DependenciaCRUD.php
+[11-Dec-2015 13:56:21 Europe/Berlin] Array
+(
+    [clase] => RolCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838581285
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:21 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:21 America/Bogota] ../modelo/RolCRUD.php
+[11-Dec-2015 13:56:22 Europe/Berlin] Array
+(
+    [clase] => RepositorioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449838582706
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:22 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:22 America/Bogota] ../modelo/RepositorioCRUD.php
+[11-Dec-2015 13:56:27 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449838587685
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:27 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:27 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 07:56:27 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:28 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449838588690
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:28 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:28 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 07:56:29 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:29 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449838589953
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:29 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:30 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 07:56:30 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:31 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449838591452
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:31 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 07:56:31 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:32 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449838592965
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:33 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 07:56:33 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:34 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449838594495
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:34 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:34 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 07:56:34 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 13:56:39 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449838599119
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 13:56:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 07:56:39 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 07:56:39 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:18:26 Europe/Berlin] Array
+(
+    [clase] => Autenticacion
+    [oper] => autenticarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasena] => 123
+)
+
+[11-Dec-2015 14:18:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:18:26 America/Bogota] ../modelo/Autenticacion.php
+[11-Dec-2015 08:18:26 America/Bogota] 5
+[11-Dec-2015 14:18:31 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449839911240
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:18:31 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:18:31 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:18:31 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:25:01 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449840300973
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:25:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:25:01 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:25:01 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:25:33 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 1
+    [_search] => false
+    [nd] => 1449840333249
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:25:33 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:25:33 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:25:33 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:25:46 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 2
+    [_search] => false
+    [nd] => 1449840346428
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:25:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:25:46 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:25:46 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:26:01 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449840361426
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:26:01 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:26:01 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:26:01 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:26:02 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449840362892
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:26:02 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:26:02 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:26:02 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:26:06 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 5
+    [_search] => false
+    [nd] => 1449840366886
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:26:06 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:26:06 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:26:06 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:26:09 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 4
+    [_search] => false
+    [nd] => 1449840369510
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:26:09 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:26:09 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:26:09 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:26:19 Europe/Berlin] Array
+(
+    [clase] => UsuarioCRUD
+    [oper] => selectUsuarios
+    [rol] => 3
+    [_search] => false
+    [nd] => 1449840379270
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:26:19 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:26:19 America/Bogota] ../modelo/UsuarioCRUD.php
+[11-Dec-2015 08:26:19 America/Bogota] ../modelo/Persistible.php
+[11-Dec-2015 14:51:39 Europe/Berlin] Array
+(
+    [clase] => ConvenioCRUD
+    [oper] => select
+    [_search] => false
+    [nd] => 1449841899098
+    [rows] => 20
+    [page] => 1
+    [sidx] => codigo
+    [sord] => asc
+)
+
+[11-Dec-2015 14:51:39 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 08:51:39 America/Bogota] ../modelo/ConvenioCRUD.php
+[11-Dec-2015 16:01:07 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => olvideContrasena
+    [uno] => 1
+)
+
+[11-Dec-2015 16:01:07 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:01:07 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:01:50 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => olvideContrasena
+    [uno] => 1
+)
+
+[11-Dec-2015 16:01:50 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:01:50 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:02:20 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => olvideContrasena
+    [uno] => 1
+)
+
+[11-Dec-2015 16:02:20 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:02:20 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:22:32 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => olvideContrasena
+    [uno] => 1
+)
+
+[11-Dec-2015 16:22:32 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:22:32 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:23:47 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => olvideContrasena
+    [uno] => 1
+)
+
+[11-Dec-2015 16:23:47 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:23:47 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:24:21 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => validarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasenanueva] => 1234
+)
+
+[11-Dec-2015 16:24:21 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:24:21 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:24:46 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => olvideContrasena
+    [uno] => 1
+)
+
+[11-Dec-2015 16:24:46 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:24:46 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:25:15 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => olvideContrasena
+    [uno] => 1
+)
+
+[11-Dec-2015 16:25:15 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:25:15 America/Bogota] ../modelo/Olvide.php
+[11-Dec-2015 16:25:26 Europe/Berlin] Array
+(
+    [clase] => Olvide
+    [oper] => validarUsuario
+    [nombreusuario] => SAMAEL
+    [contrasenanueva] => 123456
+)
+
+[11-Dec-2015 16:25:26 Europe/Berlin] ../serviciosTecnicos/utilidades/UtilConexion.php
+[11-Dec-2015 10:25:26 America/Bogota] ../modelo/Olvide.php

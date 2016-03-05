@@ -11,8 +11,8 @@
  *
  * @author Jorge Alejandro
  */
-
-include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
+session_start();
+//include_once '../serviciosTecnicos/utilidades/UtilConexion.php';
 
 class DependenciaCRUD {
     
@@ -20,10 +20,15 @@ class DependenciaCRUD {
     }
 
     function add($argumentos) {
-        extract($argumentos);
-        $sql = "INSERT INTO dependencia VALUES($codigo, '$nombre',$codigo_departamento)";
-        $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la empresa"));
+        if ($_SESSION['rol']==5) {
+            extract($argumentos);
+            $sql = "INSERT INTO dependencia VALUES($codigo, '$nombre',$codigo_departamento)";
+            $ok = UtilConexion::$pdo->exec($sql);
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No se pudo agregar la empresa"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**
@@ -34,10 +39,15 @@ class DependenciaCRUD {
      * corresponden a las columnas que se van a actualizar
      */
     function edit($argumentos) {
-        extract($argumentos);
-        $sql = "UPDATE dependencia set nombre='$nombre',codigo_departamento=$codigo_departamento WHERE codigo=$codigo";
-        $ok = UtilConexion::$pdo->exec($sql);
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la actualización de los datos"));
+        if ($_SESSION['rol']==5) {
+            extract($argumentos);
+            $sql = "UPDATE dependencia set nombre='$nombre',codigo_departamento=$codigo_departamento WHERE codigo=$codigo";
+            $ok = UtilConexion::$pdo->exec($sql);
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la actualización de los datos"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**
@@ -47,11 +57,15 @@ class DependenciaCRUD {
      * comas, que corresponden a los IDs de las filas a eliminar.
      */
     function del($argumentos) {
-        $datos =$argumentos['id'];
-//        extract($argumentos);
-        error_log($datos);
-        $ok = UtilConexion::$pdo->exec("DELETE FROM dependencia WHERE codigo=$datos");
-        echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
+        if ($_SESSION['rol']==5) {
+            $datos =$argumentos['id'];
+            error_log($datos);
+            $ok = UtilConexion::$pdo->exec("DELETE FROM dependencia WHERE codigo=$datos");
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "Falló la eliminación"));
+        }
+        else{
+            echo json_encode($ok ? array('ok' => $ok, "mensaje" => "") : array('ok' => $ok, "mensaje" => "No Tiene Permisos De Administrador"));
+        }
     }
 
     /**
